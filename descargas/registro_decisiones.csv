@@ -1,0 +1,8 @@
+﻿procedimiento,resultado,decision_actual,pendiente
+Preparación,"268 casos, 26 ítems y 907 celdas sustituidas",Usar esta base para reproducir y declarar las sustituciones.,Recuperar las respuestas originales para el contraste de preparación.
+Confiabilidad global,α = .9632; ω total = .9654,"Informar consistencia alta, sin inferir una única dimensión.",Relacionar el coeficiente con el puntaje que finalmente se justifique.
+KMO y Bartlett,"KMO = .9521; χ²(325) = 6196.77, p < .001",Continuar con el AFE.,No confundir adecuación de la matriz con ajuste del modelo.
+Construcción de la solución,"Pearson, MinRes, retención original de tres y Promax",Interpretar esta solución y registrar las opciones.,"Estudiar alternativas justificadas, sin imponer el número por los nombres teóricos."
+Ítems,"Cargas, unicidades y comunalidades de los 26 ítems",Conservar la versión de trabajo; ninguna eliminación automática.,Revisar los asuntos de contenido y pertenencia de la tabla de decisiones.
+Ajuste,RMSEA = .0847; TLI = .8925; RMSR = .0346,Mantener carácter exploratorio.,Contrastar preparación y soluciones antes de cerrar la estructura.
+Puntuaciones,Cinco bloques previstos y tres factores exploratorios,Distinguir puntajes descriptivos previstos de escalas validadas.,No adoptar tres nuevas sumas definitivas por asociación de cargas.

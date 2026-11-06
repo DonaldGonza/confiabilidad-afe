@@ -1,0 +1,885 @@
+[
+  {
+    "objectID": "resultados.html",
+    "href": "resultados.html",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "",
+    "text": "Las cifras se conservan para consultar y contrastar los capítulos. Proceden de la reproducción complementaria con 268 casos y tres factores fijados, salvo el gráfico con simulaciones y el intervalo previo de alfa, que se identifican como registros originales. Los procedimientos se describen en los capítulos 1–7.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#adecuacion-de-la-matriz",
+    "href": "resultados.html#adecuacion-de-la-matriz",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Adecuación de la matriz",
+    "text": "Adecuación de la matriz\nKMO global = .9521. Bartlett: χ²(325) = 6196.77, p &lt; .001.\n\n\n\n\n\nÍtem\n\n\nMSA\n\n\n\n\n\n\ni01\n\n\n0.8969\n\n\n\n\ni02\n\n\n0.9090\n\n\n\n\ni03\n\n\n0.9360\n\n\n\n\ni04\n\n\n0.9420\n\n\n\n\ni05\n\n\n0.8664\n\n\n\n\ni06\n\n\n0.9008\n\n\n\n\ni07\n\n\n0.9443\n\n\n\n\ni08\n\n\n0.9220\n\n\n\n\ni09\n\n\n0.8931\n\n\n\n\ni10\n\n\n0.9543\n\n\n\n\ni11\n\n\n0.9659\n\n\n\n\ni12\n\n\n0.9730\n\n\n\n\ni13\n\n\n0.9379\n\n\n\n\ni14\n\n\n0.9460\n\n\n\n\ni15\n\n\n0.9690\n\n\n\n\ni16\n\n\n0.9671\n\n\n\n\ni17\n\n\n0.9633\n\n\n\n\ni18\n\n\n0.9756\n\n\n\n\ni19\n\n\n0.9740\n\n\n\n\ni20\n\n\n0.9718\n\n\n\n\ni21\n\n\n0.9370\n\n\n\n\ni22\n\n\n0.9628\n\n\n\n\ni23\n\n\n0.9564\n\n\n\n\ni24\n\n\n0.9729\n\n\n\n\ni25\n\n\n0.9757\n\n\n\n\ni26\n\n\n0.9690",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#valores-propios",
+    "href": "resultados.html#valores-propios",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Valores propios",
+    "text": "Valores propios\nSon valores del cálculo de factores comunes, distintos de los valores propios de un análisis de componentes principales. El gráfico original conserva la comparación con simulaciones. Los valores numéricos de esas simulaciones no se han reconstruido.\n\n\n\n\n\nOrden\n\n\nValor propio\n\n\n\n\n\n\n1\n\n\n13.6611\n\n\n\n\n2\n\n\n1.4742\n\n\n\n\n3\n\n\n0.9486\n\n\n\n\n4\n\n\n0.3916\n\n\n\n\n5\n\n\n0.2124\n\n\n\n\n6\n\n\n0.1772\n\n\n\n\n7\n\n\n0.0937\n\n\n\n\n8\n\n\n0.0715\n\n\n\n\n9\n\n\n0.0207\n\n\n\n\n10\n\n\n-0.0090\n\n\n\n\n11\n\n\n-0.0370\n\n\n\n\n12\n\n\n-0.0653\n\n\n\n\n13\n\n\n-0.0968\n\n\n\n\n14\n\n\n-0.1066\n\n\n\n\n15\n\n\n-0.1164\n\n\n\n\n16\n\n\n-0.1293\n\n\n\n\n17\n\n\n-0.1530\n\n\n\n\n18\n\n\n-0.1733\n\n\n\n\n19\n\n\n-0.1802\n\n\n\n\n20\n\n\n-0.2286\n\n\n\n\n21\n\n\n-0.2529\n\n\n\n\n22\n\n\n-0.2652\n\n\n\n\n23\n\n\n-0.2899\n\n\n\n\n24\n\n\n-0.3478\n\n\n\n\n25\n\n\n-0.4539\n\n\n\n\n26\n\n\n-0.4845",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#diagnosticos-de-los-items",
+    "href": "resultados.html#diagnosticos-de-los-items",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Diagnósticos de los ítems",
+    "text": "Diagnósticos de los ítems\nLas medias y desviaciones describen la base completada. La correlación ítem–resto compara cada ítem con la suma de los demás. Alfa sin el ítem se compara con el alfa global .9632.\n\n\n\n\n\nÍtem\n\n\nMedia\n\n\nDE\n\n\nr ítem–resto\n\n\nα sin el ítem\n\n\n\n\n\n\ni01\n\n\n3.518\n\n\n0.999\n\n\n0.5697\n\n\n0.9628\n\n\n\n\ni02\n\n\n3.604\n\n\n0.971\n\n\n0.5935\n\n\n0.9626\n\n\n\n\ni03\n\n\n3.644\n\n\n1.059\n\n\n0.6459\n\n\n0.9622\n\n\n\n\ni04\n\n\n3.783\n\n\n0.912\n\n\n0.5428\n\n\n0.9630\n\n\n\n\ni05\n\n\n3.019\n\n\n1.153\n\n\n0.4612\n\n\n0.9640\n\n\n\n\ni06\n\n\n3.050\n\n\n1.042\n\n\n0.3921\n\n\n0.9643\n\n\n\n\ni07\n\n\n3.549\n\n\n1.037\n\n\n0.6957\n\n\n0.9618\n\n\n\n\ni08\n\n\n3.207\n\n\n1.260\n\n\n0.5433\n\n\n0.9635\n\n\n\n\ni09\n\n\n3.220\n\n\n0.959\n\n\n0.6965\n\n\n0.9618\n\n\n\n\ni10\n\n\n3.567\n\n\n1.206\n\n\n0.6496\n\n\n0.9623\n\n\n\n\ni11\n\n\n3.766\n\n\n1.055\n\n\n0.7806\n\n\n0.9611\n\n\n\n\ni12\n\n\n3.385\n\n\n1.193\n\n\n0.7365\n\n\n0.9615\n\n\n\n\ni13\n\n\n3.010\n\n\n1.104\n\n\n0.6061\n\n\n0.9626\n\n\n\n\ni14\n\n\n3.457\n\n\n1.036\n\n\n0.6524\n\n\n0.9622\n\n\n\n\ni15\n\n\n3.551\n\n\n1.080\n\n\n0.7597\n\n\n0.9612\n\n\n\n\ni16\n\n\n3.763\n\n\n0.985\n\n\n0.8095\n\n\n0.9609\n\n\n\n\ni17\n\n\n3.725\n\n\n1.072\n\n\n0.8054\n\n\n0.9608\n\n\n\n\ni18\n\n\n3.703\n\n\n1.086\n\n\n0.7800\n\n\n0.9611\n\n\n\n\ni19\n\n\n3.575\n\n\n1.026\n\n\n0.8052\n\n\n0.9609\n\n\n\n\ni20\n\n\n3.511\n\n\n1.027\n\n\n0.7700\n\n\n0.9612\n\n\n\n\ni21\n\n\n3.700\n\n\n0.990\n\n\n0.8066\n\n\n0.9609\n\n\n\n\ni22\n\n\n3.738\n\n\n1.030\n\n\n0.8070\n\n\n0.9609\n\n\n\n\ni23\n\n\n3.651\n\n\n1.011\n\n\n0.8113\n\n\n0.9609\n\n\n\n\ni24\n\n\n3.586\n\n\n0.994\n\n\n0.8052\n\n\n0.9609\n\n\n\n\ni25\n\n\n3.751\n\n\n1.048\n\n\n0.8191\n\n\n0.9608\n\n\n\n\ni26\n\n\n3.606\n\n\n0.952\n\n\n0.8506\n\n\n0.9606",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#cargas-y-varianza-de-los-ítems",
+    "href": "resultados.html#cargas-y-varianza-de-los-ítems",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Cargas y varianza de los ítems",
+    "text": "Cargas y varianza de los ítems\n\n\n\n\n\nÍtem\n\n\nF1\n\n\nF2\n\n\nF3\n\n\nUnicidad\n\n\nComunalidad\n\n\n\n\n\n\ni01\n\n\n-0.0997\n\n\n0.9481\n\n\n-0.1115\n\n\n0.3226\n\n\n0.6774\n\n\n\n\ni02\n\n\n-0.0085\n\n\n0.9411\n\n\n-0.1775\n\n\n0.3034\n\n\n0.6966\n\n\n\n\ni03\n\n\n0.0976\n\n\n0.7967\n\n\n-0.0999\n\n\n0.3577\n\n\n0.6423\n\n\n\n\ni04\n\n\n0.0232\n\n\n0.7765\n\n\n-0.1189\n\n\n0.4799\n\n\n0.5201\n\n\n\n\ni05\n\n\n-0.1017\n\n\n-0.0432\n\n\n0.7057\n\n\n0.6285\n\n\n0.3715\n\n\n\n\ni06\n\n\n0.1673\n\n\n-0.2353\n\n\n0.5086\n\n\n0.7369\n\n\n0.2631\n\n\n\n\ni07\n\n\n0.3386\n\n\n0.1328\n\n\n0.3191\n\n\n0.4928\n\n\n0.5072\n\n\n\n\ni08\n\n\n0.0006\n\n\n-0.0857\n\n\n0.7282\n\n\n0.5411\n\n\n0.4589\n\n\n\n\ni09\n\n\n-0.0803\n\n\n-0.0923\n\n\n1.0030\n\n\n0.2057\n\n\n0.7943\n\n\n\n\ni10\n\n\n0.0599\n\n\n0.4201\n\n\n0.3026\n\n\n0.5066\n\n\n0.4934\n\n\n\n\ni11\n\n\n0.1497\n\n\n0.4130\n\n\n0.3601\n\n\n0.3265\n\n\n0.6735\n\n\n\n\ni12\n\n\n0.1627\n\n\n0.4718\n\n\n0.2387\n\n\n0.3913\n\n\n0.6087\n\n\n\n\ni13\n\n\n-0.0294\n\n\n0.3256\n\n\n0.4317\n\n\n0.5595\n\n\n0.4405\n\n\n\n\ni14\n\n\n-0.0205\n\n\n0.2971\n\n\n0.5035\n\n\n0.4911\n\n\n0.5089\n\n\n\n\ni15\n\n\n0.4954\n\n\n0.1030\n\n\n0.2483\n\n\n0.4003\n\n\n0.5997\n\n\n\n\ni16\n\n\n0.5806\n\n\n0.1154\n\n\n0.2041\n\n\n0.3139\n\n\n0.6861\n\n\n\n\ni17\n\n\n0.6883\n\n\n0.0637\n\n\n0.1319\n\n\n0.3017\n\n\n0.6983\n\n\n\n\ni18\n\n\n0.7341\n\n\n0.0503\n\n\n0.0666\n\n\n0.3285\n\n\n0.6715\n\n\n\n\ni19\n\n\n0.8581\n\n\n-0.0027\n\n\n0.0128\n\n\n0.2503\n\n\n0.7497\n\n\n\n\ni20\n\n\n0.8678\n\n\n-0.0639\n\n\n0.0180\n\n\n0.2948\n\n\n0.7052\n\n\n\n\ni21\n\n\n0.9644\n\n\n0.0736\n\n\n-0.1710\n\n\n0.2000\n\n\n0.8000\n\n\n\n\ni22\n\n\n0.9715\n\n\n0.0135\n\n\n-0.1207\n\n\n0.1990\n\n\n0.8010\n\n\n\n\ni23\n\n\n0.9697\n\n\n-0.0700\n\n\n-0.0355\n\n\n0.1916\n\n\n0.8084\n\n\n\n\ni24\n\n\n0.8920\n\n\n-0.0140\n\n\n-0.0145\n\n\n0.2393\n\n\n0.7607\n\n\n\n\ni25\n\n\n0.8736\n\n\n-0.0130\n\n\n0.0221\n\n\n0.2232\n\n\n0.7768\n\n\n\n\ni26\n\n\n0.9404\n\n\n-0.0050\n\n\n-0.0221\n\n\n0.1518\n\n\n0.8482",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#correlaciones-factoriales",
+    "href": "resultados.html#correlaciones-factoriales",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Correlaciones factoriales",
+    "text": "Correlaciones factoriales\n\n\n\n\n\nFactor\n\n\nF1\n\n\nF2\n\n\nF3\n\n\n\n\n\n\nF1\n\n\n1.0000\n\n\n0.6658\n\n\n0.7377\n\n\n\n\nF2\n\n\n0.6658\n\n\n1.0000\n\n\n0.6355\n\n\n\n\nF3\n\n\n0.7377\n\n\n0.6355\n\n\n1.0000",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#resumen-de-varianza",
+    "href": "resultados.html#resumen-de-varianza",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Resumen de varianza",
+    "text": "Resumen de varianza\n\n\n\n\n\nFactor\n\n\nSC de cargas\n\n\n% de varianza\n\n\n% acumulado\n\n\n\n\n\n\nF1\n\n\n8.9190\n\n\n34.30\n\n\n34.30\n\n\n\n\nF2\n\n\n4.1259\n\n\n15.87\n\n\n50.17\n\n\n\n\nF3\n\n\n3.5171\n\n\n13.53\n\n\n63.70",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#ajuste",
+    "href": "resultados.html#ajuste",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Ajuste",
+    "text": "Ajuste\n\n\n\nÍndice\nResultado\n\n\n\n\nχ² del modelo\n731.71\n\n\nGrados de libertad\n250\n\n\np\n&lt; .001\n\n\nRMSEA\n0.0847\n\n\nIC del 90 %\n[0.0778, 0.0921]\n\n\nTLI\n0.8925\n\n\nRMSR\n0.0346\n\n\nRMSR corregido\n0.0394\n\n\nBIC\n-666.03",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#lectura-individual",
+    "href": "resultados.html#lectura-individual",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Lectura individual",
+    "text": "Lectura individual\nLas acciones indicadas son decisiones de trabajo. Conservan el carácter exploratorio y no afirman que se haya validado o modificado el instrumento.\n\ni01: Me resulta claro cómo escribir instrucciones a la IA generativa para realizar actividades de mis cursos.\nLa formulación de instrucciones se concentra en F2. Las dos cargas secundarias son pequeñas y negativas; no indican que haya que invertir la respuesta. La comunalidad muestra que la solución representa una parte considerable de su variación, mientras que la correlación ítem–resto describe su relación con un total más amplio y multidimensional.\nDecisión de trabajo: Conservar provisionalmente. Contribuye principalmente a F2. Revisar junto a i02 si ambos aportan contenido diferente.\n\n\ni02: Me resulta sencillo formular instrucciones para obtener respuestas útiles de la IA generativa en mis actividades académicas.\nLa facilidad para formular instrucciones vuelve a definir F2. Su proximidad de contenido con i01 y sus cargas altas aconsejan revisar si ambos cubren aspectos distintos o repiten la misma experiencia. Una carga alta es útil para describir la agrupación, pero no resuelve la redundancia de contenido.\nDecisión de trabajo: Conservar provisionalmente. Mantener en el estudio de F2 y contrastar su posible redundancia con i01.\n\n\ni03: Puedo usar herramientas de IA generativa en mis actividades académicas sin ayuda constante de otras personas.\nEl uso sin ayuda constante se asocia principalmente con F2. Comparado con i01–i02, conserva una carga algo menor y una contribución secundaria positiva pequeña en F1. Es compatible con la agrupación de facilidad y autonomía percibidas, todavía como interpretación provisional.\nDecisión de trabajo: Conservar provisionalmente. Mantener como indicador de facilidad y autonomía percibidas en la solución de trabajo.\n\n\ni04: Cuando una respuesta de la IA generativa no me sirve para una actividad académica, puedo reformular la consulta con poco esfuerzo.\nReformular una consulta con poco esfuerzo pertenece principalmente a F2. Casi la mitad de su varianza queda como unicidad. El ítem puede captar una destreza más específica que los enunciados sobre claridad o sencillez de las instrucciones; esa diferencia se debe discutir antes de buscar únicamente cargas más altas.\nDecisión de trabajo: Conservar provisionalmente. Mantener y examinar su contenido específico de reformulación de consultas.\n\n\ni05: Mis docentes aceptan el uso de IA generativa como apoyo académico cuando sigo las indicaciones de sus cursos.\nLa aceptación docente se asocia con F3 y presenta la segunda comunalidad más baja del conjunto. Tiene el menor MSA, aunque sigue siendo favorable para factorización. El alfa global subiría levemente si se retirara; eso no justifica perder automáticamente el contenido de aceptación docente.\nDecisión de trabajo: Revisar contenido. Contrastar la aceptación docente con la dimensión prevista; h² = .3715. No eliminar por el pequeño aumento de alfa.\n\n\ni06: El uso académico de IA generativa por mis compañeros de curso influye en mi interés por usarla.\nLa influencia de compañeros tiene la mayor unicidad y la menor correlación ítem–resto. Su carga principal está en F3 y existe una contribución negativa visible en F2. La solución común explica alrededor de una cuarta parte de su varianza. Conviene examinar cómo se entiende «influye» y si pertenece al puntaje que se quiere construir.\nDecisión de trabajo: Revisar representación. Examinar cómo se entiende la influencia de compañeros y si pertenece al puntaje; h² = .2631.\n\n\ni07: En mis cursos virtuales, el uso de IA generativa como apoyo académico es habitual entre los estudiantes.\nLa habitualidad del uso entre estudiantes presenta dos cargas próximas, en F1 y F3. La diferencia entre ellas es .0195. Su correlación con el resto del total es positiva y relativamente alta, pero esa asociación global no le da una pertenencia factorial clara. Es un ejemplo de por qué ambos diagnósticos deben leerse juntos.\nDecisión de trabajo: Revisar pertenencia. Comparar su sentido con F1 y F3; las cargas .3386 y .3191 no permiten una asignación simple.\n\n\ni08: He recibido recomendaciones de docentes o compañeros de mi carrera sobre cómo usar IA generativa para apoyar mi aprendizaje.\nRecibir recomendaciones se concentra en F3. Su dispersión es la mayor entre los ítems de esta tabla y la unicidad supera .50. Puede recoger una experiencia de orientación que varía entre estudiantes. Esa heterogeneidad descriptiva no equivale a error de medición por sí sola.\nDecisión de trabajo: Conservar provisionalmente. Mantener en la agrupación de entorno y orientación; revisar la heterogeneidad de la experiencia que pregunta.\n\n\ni09: Percibo que mi universidad acepta el uso académico de IA generativa cuando se siguen sus indicaciones institucionales.\nLa percepción de aceptación universitaria muestra una carga de patrón de 1.0030 en F3. Al ser una rotación oblicua, esa cifra no es una correlación simple. La unicidad es positiva y la comunalidad es .7943. Hay que revisar la matriz completa y las correlaciones factoriales; la cifra aislada no basta para declarar un caso Heywood.\nDecisión de trabajo: Conservar con inspección documentada. Contrastar patrón, estructura y unicidad. La carga mayor que uno no exige por sí sola suprimirlo.\n\n\ni10: Desde el lugar donde recibo mis clases virtuales, cuento con una conexión estable a internet para usar IA generativa.\nLa conexión estable a internet participa en F2 y F3. El contenido describe un recurso de acceso, mientras que los ítems más destacados de F2 se refieren a facilidad de uso. Esta mezcla exige decidir si se pretende medir una dimensión reflectiva o construir un índice de condiciones materiales.\nDecisión de trabajo: Revisar pertenencia. Examinar el recurso de conexión a internet y sus contribuciones a F2 y F3.\n\n\ni11: Tengo acceso a un dispositivo que me permite usar IA generativa en mis actividades académicas.\nEl acceso a un dispositivo también tiene contribuciones en F2 y F3. Su correlación ítem–resto es alta, pero no aparece como un indicador exclusivo de un factor separado de condiciones. Una asociación alta con el total no corrige esa ambigüedad conceptual.\nDecisión de trabajo: Revisar pertenencia. Examinar si acceso a dispositivo pertenece a un factor reflectivo o a un índice de recursos.\n\n\ni12: Tengo acceso a herramientas de IA generativa gratuitas o de un costo que puedo cubrir para mis actividades académicas.\nLa disponibilidad económica o gratuita de herramientas carga principalmente en F2 y secundariamente en F3. La solución representa cerca del 61 % de su varianza. El resultado sugiere revisar la relación entre acceso y facilidad percibida, sin concluir que ambos sean el mismo concepto.\nDecisión de trabajo: Conservar provisionalmente. Mantener en la versión de trabajo y discutir su agrupación de acceso con facilidad de uso.\n\n\ni13: Tengo acceso a orientación para aprender a usar IA generativa en las actividades de mis cursos.\nEl acceso a orientación se distribuye entre F3 y F2. Las cargas son suficientemente próximas para que el contenido tenga peso en la decisión de pertenencia. Su ubicación junto a aceptación y recomendaciones es comprensible como hipótesis, pero no confirma una subescala definitiva.\nDecisión de trabajo: Revisar pertenencia. Contrastar la orientación recibida con F2 y F3 antes de fijar una subescala.\n\n\ni14: Las indicaciones de mis docentes sobre el uso permitido de IA generativa en sus cursos son claras para mí.\nLa claridad de las indicaciones docentes se relaciona sobre todo con F3 y también con F2. Puede reflejar simultáneamente normas del entorno y facilidad para actuar con ellas. No se debe interpretar su carga secundaria como un error que obligue a eliminarlo.\nDecisión de trabajo: Conservar provisionalmente. Mantener y revisar si su contenido normativo explica la agrupación en F3.\n\n\ni15: Tengo intención de seguir usando IA generativa como apoyo académico en mis cursos virtuales.\nLa intención de seguir usando IA carga principalmente en F1 y secundariamente en F3. El bloque teórico de intención comparte aquí dimensión con el uso declarado. El hallazgo obliga a justificar si conviene distinguir ambos puntajes en vez de dar por confirmada su separación.\nDecisión de trabajo: Conservar provisionalmente. Mantener y estudiar la distinción conceptual entre intención y uso en F1.\n\n\ni16: Es probable que use IA generativa en nuevas actividades de mis cursos cuando las instrucciones permitan su uso.\nLa probabilidad de uso en nuevas actividades también se concentra en F1, con una contribución secundaria menor en F3. Su correlación ítem–resto es alta. La formulación condicional «cuando las instrucciones permitan su uso» ayuda a discutir por qué puede relacionarse con el entorno normativo.\nDecisión de trabajo: Conservar provisionalmente. Mantener y conservar la condición de uso permitido al interpretar la respuesta.\n\n\ni17: Planeo incorporar la IA generativa como apoyo para aprender los contenidos de mis cursos.\nPlanear incorporar IA para aprender presenta una carga principal clara en F1. Las contribuciones secundarias son pequeñas. Apoya la agrupación exploratoria de intención y uso, aunque todavía hace falta distinguir un plan de conducta de la conducta efectivamente declarada.\nDecisión de trabajo: Conservar provisionalmente. Mantener como declaración de planificación; contrastarla con los ítems de uso.\n\n\ni18: Tengo intención de usar la IA generativa como apoyo, sin sustituir con sus respuestas el trabajo académico que me corresponde elaborar.\nLa intención de usar IA sin sustituir el trabajo propio se ubica principalmente en F1. La agrupación estadística no demuestra que ese límite se cumpla en la práctica. El dato es una declaración de intención y debe interpretarse como tal.\nDecisión de trabajo: Conservar provisionalmente. Mantener como intención declarada; no interpretarlo como conducta verificada.\n\n\ni19: Uso IA generativa para apoyar las actividades académicas de mis cursos virtuales.\nEl uso académico general tiene una carga principal alta en F1 y cargas secundarias cercanas a cero. La comunalidad es aproximadamente .75. Es un indicador destacado de ese factor, sin que la respuesta pruebe una frecuencia objetiva de uso.\nDecisión de trabajo: Conservar provisionalmente. Mantener como indicador destacado de uso académico declarado en F1.\n\n\ni20: Selecciono la herramienta de IA generativa según la actividad académica que debo realizar.\nSeleccionar una herramienta según la actividad se concentra en F1. Comparte la dimensión de uso, pero añade el contenido de elección. Su pertenencia común no autoriza a concluir que todas las personas seleccionen de manera adecuada o eficaz.\nDecisión de trabajo: Conservar provisionalmente. Mantener el contenido de selección de herramientas sin inferir calidad de la elección.\n\n\ni21: Uso IA generativa para buscar información relacionada con los contenidos de mis cursos.\nBuscar información muestra una carga alta en F1 y una pequeña contribución negativa en F3. La comunalidad se aproxima a .80. Se describe una práctica declarada; el análisis no evalúa la exactitud de la información obtenida.\nDecisión de trabajo: Conservar provisionalmente. Mantener como búsqueda declarada; el análisis no evalúa la exactitud de lo obtenido.\n\n\ni22: Uso IA generativa para obtener explicaciones sobre los contenidos de mis cursos.\nObtener explicaciones vuelve a definir con fuerza F1. Su comunalidad es cercana a .80. La carga alta indica un vínculo con la dimensión de uso declarado, sin demostrar que las explicaciones produzcan mejores aprendizajes.\nDecisión de trabajo: Conservar provisionalmente. Mantener como búsqueda de explicaciones; no inferir mejoras de aprendizaje.\n\n\ni23: Uso IA generativa para sintetizar información que estudio en mis cursos.\nSintetizar información tiene una carga principal alta en F1 y la segunda comunalidad más alta. Esa representación factorial es favorable para describir la agrupación. La calidad de las síntesis requeriría otra evidencia, no contenida en estas respuestas.\nDecisión de trabajo: Conservar provisionalmente. Mantener como práctica de síntesis; la calidad requiere otra evidencia.\n\n\ni24: Uso IA generativa como apoyo para realizar las actividades indicadas por mis docentes en los cursos virtuales.\nRealizar actividades indicadas por docentes se asocia principalmente con F1 y tiene contribuciones secundarias muy pequeñas. La respuesta expresa una práctica académica declarada. No permite atribuir autorización a todos los docentes ni verificar cumplimiento de sus instrucciones.\nDecisión de trabajo: Conservar provisionalmente. Mantener como práctica declarada vinculada a actividades académicas.\n\n\ni25: Reviso las respuestas de la IA generativa antes de incorporarlas a los trabajos de mis cursos.\nRevisar respuestas de IA se ubica en F1 y tiene el mayor MSA individual. La comunalidad es alta y la correlación ítem–resto también. El resultado agrupa el autocontrol declarado con otras prácticas de uso; no comprueba que esa revisión detecte errores.\nDecisión de trabajo: Conservar provisionalmente. Mantener el indicador de revisión declarada; no equivale a detección comprobada de errores.\n\n\ni26: Declaro que usé IA generativa en mis trabajos cuando las instrucciones de la actividad me lo solicitan.\nDeclarar el uso cuando se solicita tiene la menor unicidad, la mayor comunalidad y la mayor correlación ítem–resto. Es un indicador destacado de F1. Su condición «cuando se solicita» debe conservarse: la ausencia de solicitud no equivale a falta de transparencia, y el análisis no verifica conductas individuales.\nDecisión de trabajo: Conservar provisionalmente. Mantener y preservar la condición «cuando se solicita» al interpretar la declaración de uso.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "resultados.html#archivos-agregados",
+    "href": "resultados.html#archivos-agregados",
+    "title": "Anexo con todos los resultados e interpretaciones",
+    "section": "Archivos agregados",
+    "text": "Archivos agregados\nDescargar resultados de los 26 ítems · Consultar los resultados agregados en JSON",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Resultados completos"
+    ]
+  },
+  {
+    "objectID": "recursos.html",
+    "href": "recursos.html",
+    "title": "Videos y lecturas para acompañar cada paso",
+    "section": "",
+    "text": "Los reproductores se cargan al pulsar el botón. Conservan el enlace original para abrirlos si el sitio limita la inserción. Las tareas que acompañan a los videos son propuestas de esta guía.\n\n\nPsychological Research (Psychological Research, 2021).\nReproducir aquí\nDurante el video: Localiza las opciones de alfa y omega. Después explica qué harías con el resultado global y por qué no usarías el coeficiente para confirmar una sola dimensión.\nAbrir en YouTube · Volver al procedimiento\n\n\n\nPablo Valencia (Valencia, 2019).\nReproducir aquí\nDurante el video: Anota qué opciones de análisis deben registrarse. Las elecciones de otro instrumento no se transfieren automáticamente a esta base.\nAbrir en YouTube · Volver al procedimiento\n\n\n\nDr. Jaime Fuster-Villaseca (Dr. Jaime Fuster-Villaseca, 2025).\nReproducir aquí\nDurante el video: El ejemplo utiliza Big Five Inventory. Compara sus salidas con nuestra matriz y escribe qué decisión tomarías después de leer una fila.\nAbrir en YouTube · Volver al procedimiento\n\n\n\nEl video Jamovi02: exploración de datos, de Juan José López García en TV Universidad de Murcia, trata descriptivos, valores ausentes y filtros. La duración indicada es 37 minutos y 32 segundos (López García, 2025).\nDurante el video: localiza dónde revisar no respuesta y distribuciones. Relaciona esa revisión con la ficha de preparación del capítulo 1.\nAbrir el video en TV Universidad de Murcia",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Videos y lecturas"
+    ]
+  },
+  {
+    "objectID": "recursos.html#videos-en-español",
+    "href": "recursos.html#videos-en-español",
+    "title": "Videos y lecturas para acompañar cada paso",
+    "section": "",
+    "text": "Los reproductores se cargan al pulsar el botón. Conservan el enlace original para abrirlos si el sitio limita la inserción. Las tareas que acompañan a los videos son propuestas de esta guía.\n\n\nPsychological Research (Psychological Research, 2021).\nReproducir aquí\nDurante el video: Localiza las opciones de alfa y omega. Después explica qué harías con el resultado global y por qué no usarías el coeficiente para confirmar una sola dimensión.\nAbrir en YouTube · Volver al procedimiento\n\n\n\nPablo Valencia (Valencia, 2019).\nReproducir aquí\nDurante el video: Anota qué opciones de análisis deben registrarse. Las elecciones de otro instrumento no se transfieren automáticamente a esta base.\nAbrir en YouTube · Volver al procedimiento\n\n\n\nDr. Jaime Fuster-Villaseca (Dr. Jaime Fuster-Villaseca, 2025).\nReproducir aquí\nDurante el video: El ejemplo utiliza Big Five Inventory. Compara sus salidas con nuestra matriz y escribe qué decisión tomarías después de leer una fila.\nAbrir en YouTube · Volver al procedimiento\n\n\n\nEl video Jamovi02: exploración de datos, de Juan José López García en TV Universidad de Murcia, trata descriptivos, valores ausentes y filtros. La duración indicada es 37 minutos y 32 segundos (López García, 2025).\nDurante el video: localiza dónde revisar no respuesta y distribuciones. Relaciona esa revisión con la ficha de preparación del capítulo 1.\nAbrir el video en TV Universidad de Murcia",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Videos y lecturas"
+    ]
+  },
+  {
+    "objectID": "recursos.html#lecturas-guiadas-en-español",
+    "href": "recursos.html#lecturas-guiadas-en-español",
+    "title": "Videos y lecturas para acompañar cada paso",
+    "section": "Lecturas guiadas en español",
+    "text": "Lecturas guiadas en español\n\nFiabilidad y validez\nLee a Prieto y Delgado, pp. 67–74 (Prieto & Delgado, 2010). La pregunta de lectura es: ¿qué interpretación de nuestras puntuaciones sigue sin justificarse aunque alfa sea alto? Vuelve al capítulo 7 y escribe un ejemplo de algo que sí reportarías y algo para lo que todavía necesitarías otra evidencia.\nConsultar el artículo\n\n\nDecálogo para el análisis factorial de los ítems de un test\nLee a Ferrando y colaboradores, pp. 7–17 (Ferrando et al., 2022). Identifica las recomendaciones sobre preparación, coherencia sustantiva y evaluación del modelo. Marca cuáles ya tienen evidencia en este caso y cuáles quedarían pendientes.\nConsultar el artículo\n\n\nEl análisis factorial exploratorio de los ítems\nEn Lloret-Segura y colaboradores, revisa matriz de asociación, extracción, retención y rotación (Lloret-Segura et al., 2014). Justifica por qué elegimos cada opción y qué producto deja al terminar. Después explica por qué el número de bloques previstos no obliga a retener cinco factores.\nConsultar la ficha editorial y el texto\n\n\nApuntes de consistencia interna\nEn Frías-Navarro, revisa alfa y omega, correlación ítem–resto e intervalo de confianza (Frías-Navarro, 2025). Distingue qué harías con cada columna del diagnóstico de ítems. Contrasta las formulaciones sobre homogeneidad con la discusión de Sijtsma (Sijtsma, 2009).\nConsultar los apuntes",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Videos y lecturas"
+    ]
+  },
+  {
+    "objectID": "08-practica.html",
+    "href": "08-practica.html",
+    "title": "8. Comprobar que puedes tomar las decisiones",
+    "section": "",
+    "text": "Explica con tus palabras qué harías al terminar cada procedimiento. Usa los resultados del caso y escribe tres decisiones: si procede el AFE, qué harías con i06 e i07 y qué puntajes reportarías hoy con carácter provisional.\nCompara tu respuesta con el registro del capítulo anterior. Si solo enumeraste cifras, añade la acción que permiten y su límite.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "8. Práctica de cierre"
+    ]
+  },
+  {
+    "objectID": "08-practica.html#una-tarea-antes-de-responder",
+    "href": "08-practica.html#una-tarea-antes-de-responder",
+    "title": "8. Comprobar que puedes tomar las decisiones",
+    "section": "",
+    "text": "Explica con tus palabras qué harías al terminar cada procedimiento. Usa los resultados del caso y escribe tres decisiones: si procede el AFE, qué harías con i06 e i07 y qué puntajes reportarías hoy con carácter provisional.\nCompara tu respuesta con el registro del capítulo anterior. Si solo enumeraste cifras, añade la acción que permiten y su límite.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "8. Práctica de cierre"
+    ]
+  },
+  {
+    "objectID": "08-practica.html#autoevaluación",
+    "href": "08-practica.html#autoevaluación",
+    "title": "8. Comprobar que puedes tomar las decisiones",
+    "section": "Autoevaluación",
+    "text": "Autoevaluación\nSon diez preguntas, con un punto por acierto. La escala es de 0 a 10. Al enviar todas las respuestas se muestra la explicación de cada una. Puedes volver a resolverlas.\nRevisar mis respuestasResolver de nuevo",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "8. Práctica de cierre"
+    ]
+  },
+  {
+    "objectID": "08-practica.html#qué-hacer-después",
+    "href": "08-practica.html#qué-hacer-después",
+    "title": "8. Comprobar que puedes tomar las decisiones",
+    "section": "Qué hacer después",
+    "text": "Qué hacer después\nSi confundes KMO con ajuste, vuelve al capítulo 3 y después al 6. Si no sabes qué decisión tomar con una carga, revisa el capítulo 5. Si puedes interpretar la matriz pero no sabes qué puntuar, vuelve al capítulo 7: la operación aritmética y su justificación son decisiones relacionadas, pero diferentes.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "8. Práctica de cierre"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html",
+    "href": "06-evaluar-modelo.html",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "",
+    "text": "KMO y Bartlett permitieron entrar al AFE. Ahora preguntamos si los tres factores representan adecuadamente las relaciones observadas y si su interpretación es coherente. Una matriz factorizable puede dar lugar a una solución que todavía necesita revisión.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html#la-pregunta-que-falta-responder",
+    "href": "06-evaluar-modelo.html#la-pregunta-que-falta-responder",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "",
+    "text": "KMO y Bartlett permitieron entrar al AFE. Ahora preguntamos si los tres factores representan adecuadamente las relaciones observadas y si su interpretación es coherente. Una matriz factorizable puede dar lugar a una solución que todavía necesita revisión.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html#procedimiento-a-examinar-las-correlaciones-factoriales",
+    "href": "06-evaluar-modelo.html#procedimiento-a-examinar-las-correlaciones-factoriales",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "Procedimiento A: examinar las correlaciones factoriales",
+    "text": "Procedimiento A: examinar las correlaciones factoriales\n\n\n\nRelación\nCorrelación\n\n\n\n\nF1–F2\n0.6658\n\n\nF1–F3\n0.7377\n\n\nF2–F3\n0.6355\n\n\n\nLas tres relaciones son positivas. F1–F3 es la mayor. Permitir correlaciones mediante Promax tiene sentido en esta solución. Las asociaciones no demuestran influencia causal y tampoco ordenan fusionar las dimensiones.\nAl terminar esta revisión: guardamos la matriz Φ y evitamos interpretar los factores como independientes. Se conserva abierta la distinción entre intención, uso y condiciones del entorno.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html#procedimiento-b-describir-la-varianza-representada",
+    "href": "06-evaluar-modelo.html#procedimiento-b-describir-la-varianza-representada",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "Procedimiento B: describir la varianza representada",
+    "text": "Procedimiento B: describir la varianza representada\n\n\n\nFactor\nSC de cargas\n% de varianza\n% acumulado\n\n\n\n\nF1\n8.9190\n34.30\n34.30\n\n\nF2\n4.1259\n15.87\n50.17\n\n\nF3\n3.5171\n13.53\n63.70\n\n\n\n\nLa solución representa 63.70 % de la varianza según el resumen de psych. Al estar los factores correlacionados, no se interpretan esos porcentajes como fuentes independientes. Tampoco significan «63.70 % de validez».\nAl terminar esta revisión: informamos el porcentaje como descripción del modelo. No lo usamos como certificado de aceptación.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html#procedimiento-c-integrar-los-índices-de-ajuste",
+    "href": "06-evaluar-modelo.html#procedimiento-c-integrar-los-índices-de-ajuste",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "Procedimiento C: integrar los índices de ajuste",
+    "text": "Procedimiento C: integrar los índices de ajuste\n\n\n\n\n\n\n\n\nÍndice\nResultado\nCómo afecta la decisión\n\n\n\n\nχ² del modelo\n731.71, gl = 250, p &lt; .001\nEl ajuste exacto es rechazado. No es la prueba de Bartlett.\n\n\nRMSEA\n0.0847\nLa aproximación presenta discrepancia que merece revisión.\n\n\nIC del 90 % del RMSEA\n[0.0778, 0.0921]\nAcompaña la incertidumbre del índice.\n\n\nTLI\n0.8925\nNo respalda aceptar la solución únicamente por sus coeficientes de confiabilidad.\n\n\nRMSR\n0.0346\nLos residuos son pequeños en promedio; eso puede ocultar pares problemáticos.\n\n\nRMSR corregido\n0.0394\nVersión corregida que informa psych.\n\n\nBIC\n-666.03\nSirve para comparar modelos estimados de modo comparable, no para juzgarlo por su signo.\n\n\n\nNo aplicamos un único corte como regla universal. Integramos el contenido, las cargas cruzadas y el conjunto de índices (Ferrando et al., 2022). RMSEA = .0847 y TLI = .8925 son razones para seguir revisando la solución. Un alfa de .9632 y un RMSR de .0346 no cancelan esas observaciones.\nEstos índices se calcularon de forma convencional en la base completada. No incorporan corrección robusta ordinal ni la incertidumbre de repetir la imputación.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html#qué-se-haría-para-cerrar-la-revisión",
+    "href": "06-evaluar-modelo.html#qué-se-haría-para-cerrar-la-revisión",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "Qué se haría para cerrar la revisión",
+    "text": "Qué se haría para cerrar la revisión\nPrimero se recuperan las respuestas originales y se justifica su tratamiento. Después se contrastan soluciones que tengan sentido por contenido y por teoría. Por ejemplo, la separación prevista de intención y uso debe estudiarse; no se da por resuelta por el nombre de los bloques. Una revisión o eliminación se vuelve a estimar y se compara con la solución previa. Las cifras de esas alternativas no se han calculado aquí.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "06-evaluar-modelo.html#al-terminar-este-paso",
+    "href": "06-evaluar-modelo.html#al-terminar-este-paso",
+    "title": "6. Decidir qué permite sostener el modelo",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. Las correlaciones factoriales, el resumen de varianza y los índices de ajuste.\nCómo lo interpretas. La solución es interpretable como exploración, pero las cargas cruzadas, la preparación y el ajuste impiden tratarla como estructura final confirmada.\nQué haces ahora. Conserva los resultados como evidencia exploratoria y documenta las revisiones. No crees subescalas definitivas solo a partir de esta solución.\nSiguiente paso. Cierra el registro y el plan de puntuación en Puntuar e informar.\nAsí queda anotado en este caso:\n\nLa solución de tres factores se considera de trabajo. No se declara confirmada la estructura ni se fijan nuevas subescalas definitivas con estos resultados.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "6. Evaluación del modelo"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html",
+    "href": "04-construir-solucion.html",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "",
+    "text": "La expresión «hice un análisis factorial» es insuficiente. Hay que identificar la matriz de asociación, el método de extracción, el número de factores y la rotación. Estas decisiones definen la solución que después interpretaremos (Fabrigar et al., 1999).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html#qué-necesitamos-dejar-fijado",
+    "href": "04-construir-solucion.html#qué-necesitamos-dejar-fijado",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "",
+    "text": "La expresión «hice un análisis factorial» es insuficiente. Hay que identificar la matriz de asociación, el método de extracción, el número de factores y la rotación. Estas decisiones definen la solución que después interpretaremos (Fabrigar et al., 1999).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html#procedimiento-a-definir-la-matriz-y-la-extracción",
+    "href": "04-construir-solucion.html#procedimiento-a-definir-la-matriz-y-la-extracción",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "Procedimiento A: definir la matriz y la extracción",
+    "text": "Procedimiento A: definir la matriz y la extracción\nPara reproducir este archivo se trabaja con correlaciones de Pearson sobre los ítems numéricos completados. No se calculó una matriz policórica. El análisis ordinal requeriría volver a las categorías originales y justificar el tratamiento de no respuesta.\nEn el menú de extracción, selecciona residuo mínimo, MinRes. Busca representar la varianza compartida mediante factores comunes. No es un análisis de componentes principales, cuyo propósito es resumir la varianza total.\nQué queda al terminar la extracción: una solución de factores comunes calculada con el método declarado. Aún necesitamos decidir cuántos factores interpretar y orientar la solución para facilitar su lectura.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html#procedimiento-b-decidir-cuántos-factores-conservar",
+    "href": "04-construir-solucion.html#procedimiento-b-decidir-cuántos-factores-conservar",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "Procedimiento B: decidir cuántos factores conservar",
+    "text": "Procedimiento B: decidir cuántos factores conservar\nEn la configuración recibida está seleccionado análisis paralelo. El procedimiento compara valores propios observados con una referencia obtenida mediante simulaciones del mismo tamaño (Horn, 1965). La salida guardada retuvo tres factores.\nEn la interfaz puede aparecer un campo fijo con el valor 1. Ese campo está inactivo cuando se elige análisis paralelo. No describe un AFE de un factor.\n\nEl primer factor domina el gráfico. Eso no obliga a conservar solo uno. Tampoco deben imponerse cinco únicamente porque el instrumento se diseñó con cinco bloques. Los valores observados completos se muestran en el anexo.\nQué hacemos al terminar la retención: tomamos tres factores como solución de trabajo para esta reproducción y guardamos la justificación. No se ha demostrado todavía que esa solución sea definitiva.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html#procedimiento-c-elegir-la-rotación",
+    "href": "04-construir-solucion.html#procedimiento-c-elegir-la-rotación",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "Procedimiento C: elegir la rotación",
+    "text": "Procedimiento C: elegir la rotación\nSelecciona Promax. Es una rotación oblicua, que permite que los factores estén correlacionados. Solicita también las correlaciones factoriales y muestra todas las cargas. Ocultar las inferiores a .20 cambia la presentación, no el modelo (Selker et al., s. f.).\nQué queda al terminar la rotación: una matriz de patrón que permite examinar la contribución de cada factor, junto con una matriz de correlaciones entre factores. Ahora sí podemos leer dónde se ubica cada pregunta.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html#la-especificación-que-debes-guardar",
+    "href": "04-construir-solucion.html#la-especificación-que-debes-guardar",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "La especificación que debes guardar",
+    "text": "La especificación que debes guardar\n\n\n\n\n\n\n\nDecisión\nConfiguración de este caso\n\n\n\n\nVariables\ni01–i26, sin sumas ni medias añadidas\n\n\nMatriz\nPearson sobre la base completada\n\n\nExtracción\nMinRes\n\n\nRetención original\nAnálisis paralelo; tres factores\n\n\nRotación\nPromax\n\n\nPresentación recomendada\nCargas completas, unicidades, correlaciones y ajuste\n\n\n\nPara completar las tablas se reprodujo esta solución en R 4.4.3 (R Core Team, 2025), con psych 2.5.3 y tres factores fijados (Revelle, 2025). No se volvió a ejecutar el análisis paralelo. Las cifras visibles coinciden con las guardadas a cuatro decimales.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "04-construir-solucion.html#al-terminar-este-paso",
+    "href": "04-construir-solucion.html#al-terminar-este-paso",
+    "title": "4. Construir la solución que se interpretará",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. Una especificación completa del análisis y una matriz de cargas de tres factores.\nCómo lo interpretas. Tres es la solución que vamos a interpretar en esta reproducción; no un número impuesto por el nombre de los bloques.\nQué haces ahora. Guarda la copia y las opciones. Muestra las cargas completas antes de decidir la pertenencia de las preguntas.\nSiguiente paso. Examina cada ítem en Cargas y decisiones.\nAsí queda anotado en este caso:\n\nSe interpretó una solución de tres factores, con matriz de Pearson, extracción MinRes y rotación Promax. La retención proviene del análisis paralelo guardado.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "4. Extracción y rotación"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html",
+    "href": "02-confiabilidad.html",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "",
+    "text": "Si proponemos sumar o promediar varios ítems, necesitamos estudiar la precisión de esa puntuación. Alfa y omega aportan estimaciones de consistencia a partir de una aplicación. No evalúan estabilidad temporal y un valor alto no confirma por sí mismo una única dimensión (Dunn et al., 2014; Sijtsma, 2009).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#qué-pregunta-responde",
+    "href": "02-confiabilidad.html#qué-pregunta-responde",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "",
+    "text": "Si proponemos sumar o promediar varios ítems, necesitamos estudiar la precisión de esa puntuación. Alfa y omega aportan estimaciones de consistencia a partir de una aplicación. No evalúan estabilidad temporal y un valor alto no confirma por sí mismo una única dimensión (Dunn et al., 2014; Sijtsma, 2009).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#qué-se-hace-en-jamovi",
+    "href": "02-confiabilidad.html#qué-se-hace-en-jamovi",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "Qué se hace en jamovi",
+    "text": "Qué se hace en jamovi\nEn Análisis → Factor → Análisis de fiabilidad, coloca i01 a i26 y solicita alfa de Cronbach y omega de McDonald. Agrega la correlación ítem–resto y alfa si se elimina cada ítem. Después repite el análisis para cada bloque previsto (Selker et al., s. f.).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#cómo-funcionan-los-coeficientes",
+    "href": "02-confiabilidad.html#cómo-funcionan-los-coeficientes",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "Cómo funcionan los coeficientes",
+    "text": "Cómo funcionan los coeficientes\nAlfa combina la cantidad de ítems y la covariación entre ellos:\nα=kk−1(1−∑si2ssuma2).\\alpha = \\frac{k}{k-1}\\left(1-\\frac{\\sum s_i^2}{s_{\\mathrm{suma}}^2}\\right).\nSi cuatro ítems tienen suma de varianzas igual a 4 y la varianza de su suma es 10, el resultado es 4/3×(1−4/10)=.804/3\\times(1-4/10)=.80. El ejemplo es hipotético. Muestra que no estamos contando «80 % de respuestas correctas».\nOmega se obtiene de un modelo de medición y permite que las contribuciones de los ítems difieran. Su interpretación exige especificar qué forma de omega se estimó y qué puntaje pretende representar (Flora, 2020; McNeish, 2018). En este caso se reproduce omega total de un ajuste de un factor; su magnitud tampoco demuestra que ese modelo represente toda la estructura.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#qué-se-obtuvo-en-el-caso",
+    "href": "02-confiabilidad.html#qué-se-obtuvo-en-el-caso",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "Qué se obtuvo en el caso",
+    "text": "Qué se obtuvo en el caso\n\n\n\n\n\n\n\n\nResultado global\nValor\nQué hacemos con él\n\n\n\n\nAlfa no estandarizado\n.9632\nInformarlo como estimación para el conjunto de 26 ítems de la base completada.\n\n\nAlfa estandarizado\n.9641\nReconocer que estandarizar las varianzas produce aquí una diferencia pequeña.\n\n\nOmega total\n.9654\nReportar la forma estimada y revisar después la estructura que permitiría interpretarla.\n\n\nCorrelación media entre ítems\n.5081\nDescribir la asociación global; no asignar ítems a factores con este promedio.\n\n\nIC previo del 95 % de alfa\n[.9537, .9702]\nDeclarar que se remuestreó una base ya completada.\n\n\n\nEl intervalo proviene del registro previo: 20,000 remuestreos percentiles, semilla 20261015. No incluye la incertidumbre que produciría repetir la selección o la imputación. No se recalculó en esta revisión.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#qué-hacemos-con-el-diagnóstico-de-cada-ítem",
+    "href": "02-confiabilidad.html#qué-hacemos-con-el-diagnóstico-de-cada-ítem",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "Qué hacemos con el diagnóstico de cada ítem",
+    "text": "Qué hacemos con el diagnóstico de cada ítem\nLa correlación ítem–resto relaciona una pregunta con la suma de las otras 25. Alfa sin el ítem muestra el coeficiente que resultaría con esos 25 ítems. Se compara con .9632, no con el alfa de otra muestra.\nPor ejemplo, i06 tiene la menor correlación ítem–resto, .3921. Retirarlo elevaría alfa a .9643, un cambio aproximado de .0011. La acción razonable es localizarlo para revisar su contenido y comportamiento factorial. Ese cambio pequeño, por sí solo, no justifica eliminarlo.\ni26 tiene la mayor correlación ítem–resto, .8506. Retirarlo reduciría alfa a .9606. Se mantiene en la versión de trabajo, aunque su validez de contenido y su interpretación también deben examinarse.\nLos diagnósticos completos están en el anexo.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#por-qué-calculamos-también-por-bloques",
+    "href": "02-confiabilidad.html#por-qué-calculamos-también-por-bloques",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "Por qué calculamos también por bloques",
+    "text": "Por qué calculamos también por bloques\nEl instrumento propone cinco puntajes distintos. Estimar la consistencia de cada uno ayuda a estudiar el puntaje que realmente se pretende interpretar:\n\n\n\nBloque previsto\nÍtems\nCantidad\nAlfa\n\n\n\n\nExpectativa de esfuerzo\ni01–i04\n4\n0.8836\n\n\nInfluencia social\ni05–i09\n5\n0.7940\n\n\nCondiciones para el uso\ni10–i14\n5\n0.8786\n\n\nIntención de uso\ni15–i18\n4\n0.9037\n\n\nUso académico declarado\ni19–i26\n8\n0.9664\n\n\n\nLa tabla no confirma que los cinco bloques sean cinco factores. Sus coeficientes son estimaciones descriptivas de agrupaciones previamente definidas. La estructura debe contrastarse en los siguientes pasos.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "02-confiabilidad.html#al-terminar-este-paso",
+    "href": "02-confiabilidad.html#al-terminar-este-paso",
+    "title": "2. Estimar e interpretar la confiabilidad",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. Los coeficientes globales, cinco alfas de bloques y los diagnósticos de las 26 preguntas.\nCómo lo interpretas. El conjunto tiene consistencia global alta. Eso aún no autoriza a tratarlo como una sola dimensión ni confirma cinco subescalas.\nQué haces ahora. Mantén los 26 ítems durante esta exploración. Señala i05 e i06 para revisar contenido y examina los demás con sus cargas. No elimines preguntas solo para elevar alfa.\nSiguiente paso. Comprueba si la matriz permite un AFE en KMO y Bartlett.\nAsí queda anotado en este caso:\n\nAlfa = .9632 y omega total = .9654 en la base completada. Se conserva la versión de 26 ítems para continuar la evaluación de su estructura.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "2. Confiabilidad"
+    ]
+  },
+  {
+    "objectID": "01-preparar.html",
+    "href": "01-preparar.html",
+    "title": "1. Preparar la base que se va a analizar",
+    "section": "",
+    "text": "Antes de calcular, debemos decidir qué respuestas representan datos observados, cuáles son estimaciones y qué variables pertenecen al instrumento. Una base sin celdas vacías puede contener información completada por un procedimiento estadístico.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "1. Preparación de datos"
+    ]
+  },
+  {
+    "objectID": "01-preparar.html#qué-problema-resuelve-este-paso",
+    "href": "01-preparar.html#qué-problema-resuelve-este-paso",
+    "title": "1. Preparar la base que se va a analizar",
+    "section": "",
+    "text": "Antes de calcular, debemos decidir qué respuestas representan datos observados, cuáles son estimaciones y qué variables pertenecen al instrumento. Una base sin celdas vacías puede contener información completada por un procedimiento estadístico.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "1. Preparación de datos"
+    ]
+  },
+  {
+    "objectID": "01-preparar.html#qué-se-revisa-en-jamovi",
+    "href": "01-preparar.html#qué-se-revisa-en-jamovi",
+    "title": "1. Preparar la base que se va a analizar",
+    "section": "Qué se revisa en jamovi",
+    "text": "Qué se revisa en jamovi\nAbre una copia del archivo. Identifica las variables i01 a i26, revisa su descripción y comprueba rangos, valores ausentes y sentido de respuesta. Usa los descriptivos para ver frecuencias y distribuciones. Conserva el archivo recibido para poder volver a él.\nEl AFE se realiza con los ítems. Los identificadores y las variables de contexto no se incluyen. Tampoco deben añadirse las sumas o medias calculadas con esos mismos ítems, porque introducirían dependencias creadas por el propio cálculo (Watkins, 2018).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "1. Preparación de datos"
+    ]
+  },
+  {
+    "objectID": "01-preparar.html#qué-ocurrió-en-esta-base",
+    "href": "01-preparar.html#qué-ocurrió-en-esta-base",
+    "title": "1. Preparar la base que se va a analizar",
+    "section": "Qué ocurrió en esta base",
+    "text": "Qué ocurrió en esta base\nLos controles de preparación asociados a la base indican lo siguiente (Base_IA, s. f.):\n\n\n\n\n\n\n\n\nRevisión\nResultado del caso\nConsecuencia para el análisis\n\n\n\n\nCasos analizados\n268\nEste es el tamaño de la base completada.\n\n\nÍtems\n26\nSon las variables que entran al AFE y a la confiabilidad global.\n\n\nCeldas de ítems\n6,968\n268 × 26.\n\n\nCeldas sustituidas\n907, equivalentes al 13.02 %\nSe deben declarar como estimaciones.\n\n\nMotivos originales\n531 «no aplica», 251 «no sabe» y 125 omisiones\nLos tres motivos no tienen necesariamente el mismo significado.\n\n\nProcedimiento\nMedia del bloque de la persona en 767 celdas; media observada del ítem en 140\nLos resultados están condicionados por esta preparación.\n\n\nPersonas con alguna sustitución\n238\nSolo 30 casos quedaron sin sustituciones.\n\n\n\nLas medias se conservaron sin redondear. Por eso hay decimales entre 1 y 5 en variables que originalmente recogían respuestas de categoría. Redondear esos valores no recupera las respuestas originales.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "1. Preparación de datos"
+    ]
+  },
+  {
+    "objectID": "01-preparar.html#qué-decisión-se-toma-con-esta-revisión",
+    "href": "01-preparar.html#qué-decisión-se-toma-con-esta-revisión",
+    "title": "1. Preparar la base que se va a analizar",
+    "section": "Qué decisión se toma con esta revisión",
+    "text": "Qué decisión se toma con esta revisión\nPara reproducir el análisis recibido, trabajamos con los 268 casos y declaramos las 907 sustituciones. Para una revisión metodológica de la versión final, habría que volver a las respuestas originales y justificar por separado cómo tratar «no sabe», «no aplica» y las omisiones.\nLa sustitución simple puede alterar varianzas y asociaciones. Su efecto no se conoce solo contando las celdas completadas; requiere comparar estrategias justificadas (Dong & Peng, 2013). Esa comparación no se ha realizado en este recorrido.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "1. Preparación de datos"
+    ]
+  },
+  {
+    "objectID": "01-preparar.html#al-terminar-este-paso",
+    "href": "01-preparar.html#al-terminar-este-paso",
+    "title": "1. Preparar la base que se va a analizar",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. Una ficha de preparación con 268 casos, 26 ítems y 907 celdas sustituidas.\nCómo lo interpretas. Los resultados describen una base completada, no una muestra de 268 personas que contestaron todos los ítems.\nQué haces ahora. Conserva los decimales y usa esta versión para reproducir el caso. Identifica sus resultados como condicionados por la preparación.\nSiguiente paso. Estima la consistencia de los puntajes en Confiabilidad.\nAsí queda anotado en este caso:\n\nSe analizó la base completada de 268 casos. Se declararon 907 sustituciones por medias y se conservó el archivo original sin cambios.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "1. Preparación de datos"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html",
+    "href": "03-comprobar-matriz.html",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "",
+    "text": "Aquí comprobamos si tiene sentido buscar varianza común entre las preguntas. Este paso permite entrar al AFE; todavía no evalúa si la solución final será buena.\nEn jamovi, abre Análisis → Factor → Análisis factorial exploratorio, selecciona i01 a i26 y activa KMO y prueba de esfericidad de Bartlett.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html#la-decisión-de-este-capítulo",
+    "href": "03-comprobar-matriz.html#la-decisión-de-este-capítulo",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "",
+    "text": "Aquí comprobamos si tiene sentido buscar varianza común entre las preguntas. Este paso permite entrar al AFE; todavía no evalúa si la solución final será buena.\nEn jamovi, abre Análisis → Factor → Análisis factorial exploratorio, selecciona i01 a i26 y activa KMO y prueba de esfericidad de Bartlett.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html#procedimiento-a-bartlett",
+    "href": "03-comprobar-matriz.html#procedimiento-a-bartlett",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "Procedimiento A: Bartlett",
+    "text": "Procedimiento A: Bartlett\nLa hipótesis nula afirma que la matriz es una identidad: las correlaciones distintas entre ítems son cero. El resultado del caso es:\nχ2(325)=6196.77,p&lt;.001.\\chi^2(325)=6196.77,\\qquad p&lt;.001.\nLos 325 grados de libertad corresponden a 26×25/226\\times25/2, las correlaciones distintas. Se rechaza la matriz identidad. Hay asociaciones que pueden estudiarse mediante el análisis factorial.\nAl terminar Bartlett: anotamos el resultado y continuamos con KMO. No deducimos todavía «hay tres factores» ni «el instrumento es válido».",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html#procedimiento-b-kmo-global",
+    "href": "03-comprobar-matriz.html#procedimiento-b-kmo-global",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "Procedimiento B: KMO global",
+    "text": "Procedimiento B: KMO global\nKMO contrasta correlaciones con correlaciones parciales. En este caso es .9521, un resultado favorable para explorar varianza común. No es una prueba de normalidad ni de representatividad.\nAl terminar KMO: la matriz pasa esta comprobación y podemos continuar. Si el resultado fuera desfavorable, revisaríamos codificación, relaciones entre variables y pertinencia del conjunto antes de extraer factores; no borraríamos ítems mecánicamente para subir el índice (Lloret-Segura et al., 2014).",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html#procedimiento-c-los-msa-individuales",
+    "href": "03-comprobar-matriz.html#procedimiento-c-los-msa-individuales",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "Procedimiento C: los MSA individuales",
+    "text": "Procedimiento C: los MSA individuales\nLos MSA ayudan a examinar la adecuación de cada variable dentro de la matriz. Van de .8664 en i05 a .9757 en i25. Todos son favorables en esta base. Los 26 están en el anexo.\nNo deben confundirse con las comunalidades. Por ejemplo, i06 tiene MSA = .9008, pero después veremos h² = .2631. Puede participar en una matriz factorizable y, aun así, quedar poco representado por la solución concreta.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html#qué-queda-decidido",
+    "href": "03-comprobar-matriz.html#qué-queda-decidido",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "Qué queda decidido",
+    "text": "Qué queda decidido\nLa matriz permite continuar con la extracción. Esta conclusión se limita a la posibilidad de factorizar. El ajuste del modelo se estudiará cuando tengamos una solución elegida.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "03-comprobar-matriz.html#al-terminar-este-paso",
+    "href": "03-comprobar-matriz.html#al-terminar-este-paso",
+    "title": "3. Decidir si procede el análisis factorial",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. Bartlett, KMO global y los 26 MSA.\nCómo lo interpretas. La matriz no es una identidad y presenta un patrón favorable para estudiar factores comunes.\nQué haces ahora. Continúa con el AFE. No declares todavía confirmada ninguna estructura.\nSiguiente paso. Especifica extracción, retención y rotación en Construir la solución.\nAsí queda anotado en este caso:\n\nBartlett fue significativo, χ²(325) = 6196.77, p &lt; .001, y KMO = .9521. Se decidió continuar con la exploración factorial.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "3. KMO y Bartlett"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html",
+    "href": "05-decidir-items.html",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "",
+    "text": "Queremos conocer qué parte de cada pregunta representa la solución y qué contribuciones tiene en cada factor. Después lo contrastamos con el contenido. Una matriz de cargas es un medio para decidir; la decisión no aparece automáticamente en una casilla.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#qué-buscamos-al-leer-la-matriz",
+    "href": "05-decidir-items.html#qué-buscamos-al-leer-la-matriz",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "",
+    "text": "Queremos conocer qué parte de cada pregunta representa la solución y qué contribuciones tiene en cada factor. Después lo contrastamos con el contenido. Una matriz de cargas es un medio para decidir; la decisión no aparece automáticamente en una casilla.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#cómo-leer-una-fila",
+    "href": "05-decidir-items.html#cómo-leer-una-fila",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "Cómo leer una fila",
+    "text": "Cómo leer una fila\nLas columnas F1, F2 y F3 son cargas de patrón de una solución oblicua. La unicidad es la parte de varianza que los factores comunes no representan. La comunalidad es h2=1−u2h^2=1-u^2 en la solución estandarizada. Incluye lo representado por el conjunto de factores comunes.\nPor ejemplo, i06 tiene unicidad .7369 y comunalidad .2631. La solución representa aproximadamente 26.31 % de su varianza. El siguiente movimiento es revisar su contenido y pertinencia, no considerar esa cifra una orden de borrado.\nElige una pregunta para ver la lectura y la acción propuesta",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#matriz-completa",
+    "href": "05-decidir-items.html#matriz-completa",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "Matriz completa",
+    "text": "Matriz completa\n\n\n\n\n\nÍtem\n\n\nF1\n\n\nF2\n\n\nF3\n\n\nUnicidad\n\n\nComunalidad\n\n\n\n\n\n\ni01\n\n\n-0.0997\n\n\n0.9481\n\n\n-0.1115\n\n\n0.3226\n\n\n0.6774\n\n\n\n\ni02\n\n\n-0.0085\n\n\n0.9411\n\n\n-0.1775\n\n\n0.3034\n\n\n0.6966\n\n\n\n\ni03\n\n\n0.0976\n\n\n0.7967\n\n\n-0.0999\n\n\n0.3577\n\n\n0.6423\n\n\n\n\ni04\n\n\n0.0232\n\n\n0.7765\n\n\n-0.1189\n\n\n0.4799\n\n\n0.5201\n\n\n\n\ni05\n\n\n-0.1017\n\n\n-0.0432\n\n\n0.7057\n\n\n0.6285\n\n\n0.3715\n\n\n\n\ni06\n\n\n0.1673\n\n\n-0.2353\n\n\n0.5086\n\n\n0.7369\n\n\n0.2631\n\n\n\n\ni07\n\n\n0.3386\n\n\n0.1328\n\n\n0.3191\n\n\n0.4928\n\n\n0.5072\n\n\n\n\ni08\n\n\n0.0006\n\n\n-0.0857\n\n\n0.7282\n\n\n0.5411\n\n\n0.4589\n\n\n\n\ni09\n\n\n-0.0803\n\n\n-0.0923\n\n\n1.0030\n\n\n0.2057\n\n\n0.7943\n\n\n\n\ni10\n\n\n0.0599\n\n\n0.4201\n\n\n0.3026\n\n\n0.5066\n\n\n0.4934\n\n\n\n\ni11\n\n\n0.1497\n\n\n0.4130\n\n\n0.3601\n\n\n0.3265\n\n\n0.6735\n\n\n\n\ni12\n\n\n0.1627\n\n\n0.4718\n\n\n0.2387\n\n\n0.3913\n\n\n0.6087\n\n\n\n\ni13\n\n\n-0.0294\n\n\n0.3256\n\n\n0.4317\n\n\n0.5595\n\n\n0.4405\n\n\n\n\ni14\n\n\n-0.0205\n\n\n0.2971\n\n\n0.5035\n\n\n0.4911\n\n\n0.5089\n\n\n\n\ni15\n\n\n0.4954\n\n\n0.1030\n\n\n0.2483\n\n\n0.4003\n\n\n0.5997\n\n\n\n\ni16\n\n\n0.5806\n\n\n0.1154\n\n\n0.2041\n\n\n0.3139\n\n\n0.6861\n\n\n\n\ni17\n\n\n0.6883\n\n\n0.0637\n\n\n0.1319\n\n\n0.3017\n\n\n0.6983\n\n\n\n\ni18\n\n\n0.7341\n\n\n0.0503\n\n\n0.0666\n\n\n0.3285\n\n\n0.6715\n\n\n\n\ni19\n\n\n0.8581\n\n\n-0.0027\n\n\n0.0128\n\n\n0.2503\n\n\n0.7497\n\n\n\n\ni20\n\n\n0.8678\n\n\n-0.0639\n\n\n0.0180\n\n\n0.2948\n\n\n0.7052\n\n\n\n\ni21\n\n\n0.9644\n\n\n0.0736\n\n\n-0.1710\n\n\n0.2000\n\n\n0.8000\n\n\n\n\ni22\n\n\n0.9715\n\n\n0.0135\n\n\n-0.1207\n\n\n0.1990\n\n\n0.8010\n\n\n\n\ni23\n\n\n0.9697\n\n\n-0.0700\n\n\n-0.0355\n\n\n0.1916\n\n\n0.8084\n\n\n\n\ni24\n\n\n0.8920\n\n\n-0.0140\n\n\n-0.0145\n\n\n0.2393\n\n\n0.7607\n\n\n\n\ni25\n\n\n0.8736\n\n\n-0.0130\n\n\n0.0221\n\n\n0.2232\n\n\n0.7768\n\n\n\n\ni26\n\n\n0.9404\n\n\n-0.0050\n\n\n-0.0221\n\n\n0.1518\n\n\n0.8482",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#tres-situaciones-que-requieren-decisiones-distintas",
+    "href": "05-decidir-items.html#tres-situaciones-que-requieren-decisiones-distintas",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "Tres situaciones que requieren decisiones distintas",
+    "text": "Tres situaciones que requieren decisiones distintas\n\ni06: la solución representa poco de su varianza\nLa pregunta se refiere a la influencia del uso de IA por compañeros. Tiene h² = .2631 y es la de menor correlación ítem–resto. La decisión actual es revisar su representación y su contenido. Conviene contrastar cómo se entiende «influye» y si esa experiencia pertenece al puntaje. Suprimirla solo porque alfa sube .0011 perdería contenido sin resolver necesariamente el modelo.\n\n\ni07: hay dos pertenencias próximas\nLa habitualidad de uso en cursos carga .3386 en F1 y .3191 en F3; la diferencia es .0195. La decisión actual es dejar su asignación abierta. Se contrasta el contenido con ambas agrupaciones y se estudian alternativas de solución. No se le asigna una dimensión definitiva solo por la mayor de las dos cargas.\n\n\ni09: una carga de patrón supera uno\nSu carga en F3 es 1.0030 y la unicidad .2057 es positiva. En una rotación oblicua, la carga de patrón no es una correlación simple. Al multiplicar la matriz de patrón por las correlaciones entre factores se obtiene la matriz de estructura. En i09, la correlación de estructura con F3 es 0.8851, inferior a uno.\nLa decisión actual es conservarlo con esa inspección documentada. La cifra de patrón aislada no basta para declarar una solución impropia. Se conserva la revisión de estimación y contenido; no se lo elimina automáticamente.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#qué-hacemos-ahora-con-los-26-ítems",
+    "href": "05-decidir-items.html#qué-hacemos-ahora-con-los-26-ítems",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "Qué hacemos ahora con los 26 ítems",
+    "text": "Qué hacemos ahora con los 26 ítems\nLa siguiente tabla expresa acciones para la versión de trabajo, no una selección psicométrica final. No se eliminó ni se reescribió ningún ítem al preparar esta guía.\n\n\n\n\n\nÍtem\n\n\nDecisión actual\n\n\nAcción concreta\n\n\n\n\n\n\ni01\n\n\nConservar provisionalmente\n\n\nContribuye principalmente a F2. Revisar junto a i02 si ambos aportan contenido diferente.\n\n\n\n\ni02\n\n\nConservar provisionalmente\n\n\nMantener en el estudio de F2 y contrastar su posible redundancia con i01.\n\n\n\n\ni03\n\n\nConservar provisionalmente\n\n\nMantener como indicador de facilidad y autonomía percibidas en la solución de trabajo.\n\n\n\n\ni04\n\n\nConservar provisionalmente\n\n\nMantener y examinar su contenido específico de reformulación de consultas.\n\n\n\n\ni05\n\n\nRevisar contenido\n\n\nContrastar la aceptación docente con la dimensión prevista; h² = .3715. No eliminar por el pequeño aumento de alfa.\n\n\n\n\ni06\n\n\nRevisar representación\n\n\nExaminar cómo se entiende la influencia de compañeros y si pertenece al puntaje; h² = .2631.\n\n\n\n\ni07\n\n\nRevisar pertenencia\n\n\nComparar su sentido con F1 y F3; las cargas .3386 y .3191 no permiten una asignación simple.\n\n\n\n\ni08\n\n\nConservar provisionalmente\n\n\nMantener en la agrupación de entorno y orientación; revisar la heterogeneidad de la experiencia que pregunta.\n\n\n\n\ni09\n\n\nConservar con inspección documentada\n\n\nContrastar patrón, estructura y unicidad. La carga mayor que uno no exige por sí sola suprimirlo.\n\n\n\n\ni10\n\n\nRevisar pertenencia\n\n\nExaminar el recurso de conexión a internet y sus contribuciones a F2 y F3.\n\n\n\n\ni11\n\n\nRevisar pertenencia\n\n\nExaminar si acceso a dispositivo pertenece a un factor reflectivo o a un índice de recursos.\n\n\n\n\ni12\n\n\nConservar provisionalmente\n\n\nMantener en la versión de trabajo y discutir su agrupación de acceso con facilidad de uso.\n\n\n\n\ni13\n\n\nRevisar pertenencia\n\n\nContrastar la orientación recibida con F2 y F3 antes de fijar una subescala.\n\n\n\n\ni14\n\n\nConservar provisionalmente\n\n\nMantener y revisar si su contenido normativo explica la agrupación en F3.\n\n\n\n\ni15\n\n\nConservar provisionalmente\n\n\nMantener y estudiar la distinción conceptual entre intención y uso en F1.\n\n\n\n\ni16\n\n\nConservar provisionalmente\n\n\nMantener y conservar la condición de uso permitido al interpretar la respuesta.\n\n\n\n\ni17\n\n\nConservar provisionalmente\n\n\nMantener como declaración de planificación; contrastarla con los ítems de uso.\n\n\n\n\ni18\n\n\nConservar provisionalmente\n\n\nMantener como intención declarada; no interpretarlo como conducta verificada.\n\n\n\n\ni19\n\n\nConservar provisionalmente\n\n\nMantener como indicador destacado de uso académico declarado en F1.\n\n\n\n\ni20\n\n\nConservar provisionalmente\n\n\nMantener el contenido de selección de herramientas sin inferir calidad de la elección.\n\n\n\n\ni21\n\n\nConservar provisionalmente\n\n\nMantener como búsqueda declarada; el análisis no evalúa la exactitud de lo obtenido.\n\n\n\n\ni22\n\n\nConservar provisionalmente\n\n\nMantener como búsqueda de explicaciones; no inferir mejoras de aprendizaje.\n\n\n\n\ni23\n\n\nConservar provisionalmente\n\n\nMantener como práctica de síntesis; la calidad requiere otra evidencia.\n\n\n\n\ni24\n\n\nConservar provisionalmente\n\n\nMantener como práctica declarada vinculada a actividades académicas.\n\n\n\n\ni25\n\n\nConservar provisionalmente\n\n\nMantener el indicador de revisión declarada; no equivale a detección comprobada de errores.\n\n\n\n\ni26\n\n\nConservar provisionalmente\n\n\nMantener y preservar la condición «cuando se solicita» al interpretar la declaración de uso.\n\n\n\n\n\n«Conservar provisionalmente» significa que el ítem permanece mientras se evalúa el modelo. No significa que ya haya superado toda evaluación. «Revisar» significa qué asunto debe resolverse antes de cerrar su pertenencia o redacción. Las 26 explicaciones individuales se conservan en el anexo.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#cómo-leer-las-agrupaciones-sin-convertirlas-en-escalas-definitivas",
+    "href": "05-decidir-items.html#cómo-leer-las-agrupaciones-sin-convertirlas-en-escalas-definitivas",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "Cómo leer las agrupaciones sin convertirlas en escalas definitivas",
+    "text": "Cómo leer las agrupaciones sin convertirlas en escalas definitivas\nF1 reúne principalmente intención y uso académico declarado. F2 reúne sobre todo facilidad percibida y algunos recursos de acceso. F3 reúne aceptación, influencia y orientación del entorno. i07 conserva una pertenencia ambigua. Estos nombres son interpretaciones provisionales; no confirman los cinco bloques teóricos.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "05-decidir-items.html#al-terminar-este-paso",
+    "href": "05-decidir-items.html#al-terminar-este-paso",
+    "title": "5. Convertir las cargas en decisiones sobre los ítems",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. La matriz completa y una decisión documentada para cada una de las 26 preguntas.\nCómo lo interpretas. Hay indicadores con una contribución principal clara y otros cuyo contenido o pertenencia necesitan revisión. Las cargas se interpretan con su significado y con la varianza.\nQué haces ahora. Conserva los 26 ítems en esta versión de trabajo; documenta la revisión de i05, i06, i07, i09, i10, i11 e i13. La inspección de los demás también forma parte del registro.\nSiguiente paso. Evalúa la solución completa en Factores y ajuste.\nAsí queda anotado en este caso:\n\nNo se eliminaron ítems automáticamente. Se registraron decisiones provisionales y los asuntos concretos que deben revisarse antes de fijar una versión final.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "5. Decisiones sobre los ítems"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html",
+    "href": "07-puntuar-informar.html",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "",
+    "text": "El producto final es un registro de análisis con decisiones justificadas, acompañado del reporte. En este caso queda documentado qué datos se analizaron, qué resultados se obtuvieron, qué ítems se conservan en la versión de trabajo y qué evidencia falta para cerrar los puntajes.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#qué-entregamos-al-final-del-recorrido",
+    "href": "07-puntuar-informar.html#qué-entregamos-al-final-del-recorrido",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "",
+    "text": "El producto final es un registro de análisis con decisiones justificadas, acompañado del reporte. En este caso queda documentado qué datos se analizaron, qué resultados se obtuvieron, qué ítems se conservan en la versión de trabajo y qué evidencia falta para cerrar los puntajes.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#calcular-una-puntuación-no-equivale-a-justificarla",
+    "href": "07-puntuar-informar.html#calcular-una-puntuación-no-equivale-a-justificarla",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "Calcular una puntuación no equivale a justificarla",
+    "text": "Calcular una puntuación no equivale a justificarla\nUna media es una operación aritmética. Para interpretarla como medida de una dimensión necesitamos además explicar qué contenido combina y qué evidencia respalda esa interpretación (Prieto & Delgado, 2010).\nEl archivo ya contiene cinco medias y cinco sumas de bloques previstos:\n\n\n\nPuntaje previsto\nCálculo aritmético de la media\n\n\n\n\nExpectativa de esfuerzo\nMedia de i01–i04\n\n\nInfluencia social\nMedia de i05–i09\n\n\nCondiciones para el uso\nMedia de i10–i14\n\n\nIntención de uso\nMedia de i15–i18\n\n\nUso académico declarado\nMedia de i19–i26\n\n\n\nEstos cálculos pueden describirse según la construcción prevista, con carácter provisional y condicionado por la preparación. El AFE recibido no confirma que constituyan cinco dimensiones separadas. La pregunta de investigación y el uso de la medida determinan si ese alcance descriptivo es suficiente.\n\nUn ejemplo de cómo se calcula y qué se escribe\nSupón una persona hipotética con respuestas 4, 5, 3 y 4 en i01–i04. Su suma sería 16 y su media 4. Este ejemplo no corresponde a un participante de la base.\nLa operación termina al obtener la media. La interpretación termina después de justificar qué representa. Una redacción prudente sería: «El promedio del bloque previsto de expectativa de esfuerzo fue 4 en este ejemplo». No equivale a concluir que la persona tiene una capacidad objetiva de nivel 4.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#qué-hacemos-con-los-tres-factores-encontrados",
+    "href": "07-puntuar-informar.html#qué-hacemos-con-los-tres-factores-encontrados",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "Qué hacemos con los tres factores encontrados",
+    "text": "Qué hacemos con los tres factores encontrados\nLos factores ayudan a estudiar la estructura. No obligan a crear tres nuevas sumas. Para hacerlo habría que definir con claridad su contenido, resolver los ítems ambiguos, volver a estimar la solución y estudiar la confiabilidad de esos puntajes. Esas decisiones todavía no se han cerrado en este caso.\nTampoco se ha justificado un total de 26 ítems como medida de una sola dimensión. El alfa global se conserva como resultado del conjunto examinado, con esa limitación.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#el-registro-final-ya-resuelto-para-esta-base",
+    "href": "07-puntuar-informar.html#el-registro-final-ya-resuelto-para-esta-base",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "El registro final ya resuelto para esta base",
+    "text": "El registro final ya resuelto para esta base\n\n\n\n\n\nPaso\n\n\nResultado\n\n\nDecisión actual\n\n\nQué falta para cerrar\n\n\n\n\n\n\nPreparación\n\n\n268 casos, 26 ítems y 907 celdas sustituidas\n\n\nUsar esta base para reproducir y declarar las sustituciones.\n\n\nRecuperar las respuestas originales para el contraste de preparación.\n\n\n\n\nConfiabilidad global\n\n\nα = .9632; ω total = .9654\n\n\nInformar consistencia alta, sin inferir una única dimensión.\n\n\nRelacionar el coeficiente con el puntaje que finalmente se justifique.\n\n\n\n\nKMO y Bartlett\n\n\nKMO = .9521; χ²(325) = 6196.77, p &lt; .001\n\n\nContinuar con el AFE.\n\n\nNo confundir adecuación de la matriz con ajuste del modelo.\n\n\n\n\nConstrucción de la solución\n\n\nPearson, MinRes, retención original de tres y Promax\n\n\nInterpretar esta solución y registrar las opciones.\n\n\nEstudiar alternativas justificadas, sin imponer el número por los nombres teóricos.\n\n\n\n\nÍtems\n\n\nCargas, unicidades y comunalidades de los 26 ítems\n\n\nConservar la versión de trabajo; ninguna eliminación automática.\n\n\nRevisar los asuntos de contenido y pertenencia de la tabla de decisiones.\n\n\n\n\nAjuste\n\n\nRMSEA = .0847; TLI = .8925; RMSR = .0346\n\n\nMantener carácter exploratorio.\n\n\nContrastar preparación y soluciones antes de cerrar la estructura.\n\n\n\n\nPuntuaciones\n\n\nCinco bloques previstos y tres factores exploratorios\n\n\nDistinguir puntajes descriptivos previstos de escalas validadas.\n\n\nNo adoptar tres nuevas sumas definitivas por asociación de cargas.\n\n\n\n\n\nDescargar este registro en CSV\nLa decisión actual es conservar los 26 ítems para continuar la evaluación, mantener separados los resultados descriptivos y las afirmaciones de validez, y no declarar todavía una versión psicométrica final. El análisis exploratorio sí aporta una descripción verificable de la solución y localiza problemas concretos.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#ejemplo-de-informe-que-integra-el-recorrido",
+    "href": "07-puntuar-informar.html#ejemplo-de-informe-que-integra-el-recorrido",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "Ejemplo de informe que integra el recorrido",
+    "text": "Ejemplo de informe que integra el recorrido\n\nSe analizaron 26 ítems en una base completada de 268 casos. Los controles registraron 907 sustituciones por medias, equivalentes al 13.02 % de las celdas de ítems. La matriz fue adecuada para continuar con la exploración, con KMO = .952 y una prueba de Bartlett significativa, χ²(325) = 6196.77, p &lt; .001. La solución guardada empleó MinRes, rotación Promax y retención de tres factores mediante análisis paralelo. Se reprodujo fijando tres factores para completar sus resultados.\nAlfa global fue .963 y omega total .965. La solución representó 63.70 % de la varianza y presentó correlaciones factoriales entre .635 y .738. Se observaron ítems con cargas cruzadas o varianza común limitada. El ajuste exacto fue rechazado, χ²(250) = 731.71, p &lt; .001; RMSEA = .085, IC del 90 % [.078, .092], TLI = .892 y RMSR = .035. Se conservaron los 26 ítems como versión de trabajo y se documentaron las revisiones de contenido y pertenencia. Los resultados se interpretan como exploratorios y condicionados por la preparación de los datos; no confirman cinco subescalas ni justifican un puntaje unidimensional definitivo.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#comprobación-final",
+    "href": "07-puntuar-informar.html#comprobación-final",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "Comprobación final",
+    "text": "Comprobación final\nAntes de cerrar un análisis propio, comprueba si otra persona podría reconstruir las decisiones con tu registro: qué archivo se usó, cómo se trataron las respuestas, qué opciones se eligieron, qué cambió entre versiones y por qué se conservaron o revisaron los ítems. Con esos productos puede continuarse una evaluación posterior sin perder la trazabilidad.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "07-puntuar-informar.html#al-terminar-este-paso",
+    "href": "07-puntuar-informar.html#al-terminar-este-paso",
+    "title": "7. Cerrar las decisiones y definir las puntuaciones",
+    "section": "Al terminar este paso",
+    "text": "Al terminar este paso\nQué guardas. El registro de decisiones, el plan de puntuación y una redacción que integra los resultados.\nCómo lo interpretas. El recorrido produjo evidencia y decisiones de trabajo; las afirmaciones deben conservar ese alcance.\nQué haces ahora. Reporta lo realizado. Identifica los puntajes descriptivos previstos y deja explícitas las decisiones todavía abiertas.\nSiguiente paso. Resuelve la práctica de cierre y contrasta tus respuestas con el registro.\nAsí queda anotado en este caso:\n\nSe mantiene la versión de 26 ítems para continuar la evaluación. No se declara validado un total único ni se crean tres subescalas definitivas.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Procedimiento y decisiones",
+      "7. Puntuación e informe"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Confiabilidad y análisis factorial exploratorio",
+    "section": "",
+    "text": "Esta guía acompaña un análisis desde la preparación de la base hasta la decisión sobre los ítems y las puntuaciones. Trabaja con un caso concreto, Base_IA.omv, y explica qué se hace con cada resultado antes de pasar al siguiente procedimiento.\nEl recorrido termina con tres productos: un registro de decisiones, una propuesta explícita sobre las puntuaciones y un informe de resultados. Los cálculos completos se conservan en el anexo de resultados.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Inicio y ruta de trabajo"
+    ]
+  },
+  {
+    "objectID": "index.html#la-decisión-que-buscamos",
+    "href": "index.html#la-decisión-que-buscamos",
+    "title": "Confiabilidad y análisis factorial exploratorio",
+    "section": "La decisión que buscamos",
+    "text": "La decisión que buscamos\nQueremos saber si tiene sentido combinar las respuestas en puntuaciones y qué evidencia respalda esa combinación. Para responder, primero revisamos los datos, después su consistencia y estructura, y finalmente evaluamos si la solución es suficientemente defendible para el uso previsto.\nEn este caso hay 268 personas y 26 ítems. Alfa y omega son altos, y el análisis guardado retuvo tres factores. Sin embargo, los datos incluyen sustituciones por medias, varias preguntas se relacionan con más de un factor y el ajuste necesita revisión. Al terminar explicaremos qué puede conservarse como resultado descriptivo y qué sigue pendiente.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Inicio y ruta de trabajo"
+    ]
+  },
+  {
+    "objectID": "index.html#qué-produce-cada-procedimiento",
+    "href": "index.html#qué-produce-cada-procedimiento",
+    "title": "Confiabilidad y análisis factorial exploratorio",
+    "section": "Qué produce cada procedimiento",
+    "text": "Qué produce cada procedimiento\n\n\n\n\n\n\n\n\nProcedimiento\nProducto que obtienes\nDecisión que tomas con ese producto\n\n\n\n\nPreparación\nFicha de datos, exclusiones y sustituciones\nDefinir qué base entra al análisis y cómo se describen sus límites.\n\n\nConfiabilidad\nAlfa, omega y diagnósticos por ítem\nExaminar la consistencia del puntaje propuesto y localizar preguntas para revisar.\n\n\nKMO y Bartlett\nEvidencia de que la matriz permite explorar factores\nContinuar con el AFE o revisar primero la matriz.\n\n\nExtracción, retención y rotación\nUn modelo de trabajo y su matriz de cargas\nFijar qué solución se interpretará y guardar sus opciones.\n\n\nCargas y comunalidades\nRelaciones de cada ítem con los factores\nConservar provisionalmente, revisar o estudiar una alternativa; nunca borrar por una cifra aislada.\n\n\nAjuste y relaciones factoriales\nUna evaluación conjunta del modelo\nDeterminar si la solución puede sostenerse o debe compararse con alternativas.\n\n\nPuntuación e informe\nRegistro final y redacción metodológica\nDefinir qué puntuaciones se reportan y con qué alcance.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Inicio y ruta de trabajo"
+    ]
+  },
+  {
+    "objectID": "index.html#cómo-recorrer-los-capítulos",
+    "href": "index.html#cómo-recorrer-los-capítulos",
+    "title": "Confiabilidad y análisis factorial exploratorio",
+    "section": "Cómo recorrer los capítulos",
+    "text": "Cómo recorrer los capítulos\nEmpieza por preparar la base. Al final de cada capítulo encontrarás una decisión resuelta para este caso y el enlace al siguiente paso. Los videos y las lecturas se consultan en Recursos, junto con preguntas para orientar su estudio.\nLa guía conserva la interfaz azul. Sus tablas, gráficos y textos funcionan localmente; los recursos externos requieren internet.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Inicio y ruta de trabajo"
+    ]
+  },
+  {
+    "objectID": "index.html#de-dónde-vienen-las-cifras",
+    "href": "index.html#de-dónde-vienen-las-cifras",
+    "title": "Confiabilidad y análisis factorial exploratorio",
+    "section": "De dónde vienen las cifras",
+    "text": "De dónde vienen las cifras\nLas primeras tablas y el gráfico con simulaciones estaban guardados en el archivo recibido. Para completar la interpretación se reprodujo la solución en R con tres factores fijados, MinRes y Promax. Las cargas visibles, alfa, omega, KMO y Bartlett coinciden con los originales al redondear a cuatro decimales. Fijar tres factores para reproducirlos no equivale a ejecutar nuevamente el análisis paralelo.\nLos datos individuales permanecen fuera de este sitio. Las tablas contienen resultados agregados, no registros de participantes.",
+    "crumbs": [
+      "Guía paso a paso",
+      "Inicio y ruta de trabajo"
+    ]
+  },
+  {
+    "objectID": "referencias.html",
+    "href": "referencias.html",
+    "title": "Referencias",
+    "section": "",
+    "text": "Las fuentes citadas y los recursos de estudio se presentan con el estilo APA 7.\n\n\nBase_IA. (s. f.). [Conjunto de datos no publicado].\n\n\nDong, Y., & Peng, C.-Y. J. (2013). Principled missing data methods for researchers. SpringerPlus, 2, 222. https://doi.org/10.1186/2193-1801-2-222\n\n\nDr. Jaime Fuster-Villaseca. (2025, junio 11). Análisis factorial exploratorio en Jamovi [Video]. YouTube. https://www.youtube.com/watch?v=pXEL64r0gho\n\n\nDunn, T. J., Baguley, T., & Brunsden, V. (2014). From alpha to omega: A practical solution to the pervasive problem of internal consistency estimation. British Journal of Psychology, 105(3), 399-412. https://doi.org/10.1111/bjop.12046\n\n\nFabrigar, L. R., Wegener, D. T., MacCallum, R. C., & Strahan, E. J. (1999). Evaluating the use of exploratory factor analysis in psychological research. Psychological Methods, 4(3), 272-299. https://doi.org/10.1037/1082-989X.4.3.272\n\n\nFerrando, P. J., Lorenzo-Seva, U., Hernández-Dorado, A., & Muñiz, J. (2022). Decálogo para el análisis factorial de los ítems de un test. Psicothema, 34(1), 7-17. https://doi.org/10.7334/psicothema2021.456\n\n\nFlora, D. B. (2020). Your coefficient alpha is probably wrong, but which coefficient omega is right? A tutorial on using R to obtain better reliability estimates. Advances in Methods and Practices in Psychological Science, 3(4), 484-501. https://doi.org/10.1177/2515245920951747\n\n\nFrías-Navarro, D. (2025). Apuntes de estimación de la fiabilidad de consistencia interna de los ítems de un instrumento de medida. Universidad de Valencia. https://www.uv.es/friasnav/AlfaCronbach.pdf\n\n\nHorn, J. L. (1965). A rationale and test for the number of factors in factor analysis. Psychometrika, 30(2), 179-185. https://doi.org/10.1007/BF02289447\n\n\nLloret-Segura, S., Ferreres-Traver, A., Hernández-Baeza, A., & Tomás-Marco, I. (2014). El análisis factorial exploratorio de los ítems: Una guía práctica, revisada y actualizada. Anales de Psicología, 30(3), 1151-1169. https://doi.org/10.6018/analesps.30.3.199361\n\n\nLópez García, J. J. (2025, marzo 7). Jamovi02: exploración de datos [Video]. TV Universidad de Murcia. https://clutv10.um.es/pro/video?autoplay=&cod=a1b1c2d23&id=149730&idioma=es&serie=26006\n\n\nMcNeish, D. (2018). Thanks coefficient alpha, we’ll take it from here. Psychological Methods, 23(3), 412-433. https://doi.org/10.1037/met0000144\n\n\nPrieto, G., & Delgado, A. R. (2010). Fiabilidad y validez. Papeles del Psicólogo, 31(1), 67-74. https://www.papelesdelpsicologo.es/pdf/1797.pdf\n\n\nPsychological Research. (2021, junio 16). Confiabilidad Alfa y Omega en Jamovi [Video]. YouTube. https://www.youtube.com/watch?v=tZxFny4siag\n\n\nR Core Team. (2025). R: A language and environment for statistical computing (Versión 4.4.3) [Software]. R Foundation for Statistical Computing. https://www.R-project.org/\n\n\nRevelle, W. (2025). psych: Procedures for psychological, psychometric, and personality research (Versión 2.5.3) [Paquete de R]. https://CRAN.R-project.org/package=psych\n\n\nSelker, R., Love, J., & Dropmann, D. (s. f.-a). Exploratory factor analysis (efa). jamovi Documentation. Recuperado https://docs.jamovi.org/jmv/jmv_efa.html\n\n\nSelker, R., Love, J., & Dropmann, D. (s. f.-b). Reliability analysis (reliability). jamovi Documentation. Recuperado https://docs.jamovi.org/jmv/jmv_reliability.html\n\n\nSijtsma, K. (2009). On the use, the misuse, and the very limited usefulness of Cronbach’s alpha. Psychometrika, 74(1), 107-120. https://doi.org/10.1007/s11336-008-9101-0\n\n\nValencia, P. (2019, marzo 22). Análisis factorial y de confiabilidad en jamovi [Video]. YouTube. https://www.youtube.com/watch?v=iyMx_b3Lmlo\n\n\nWatkins, M. W. (2018). Exploratory factor analysis: A guide to best practice. Journal of Black Psychology, 44(3), 219-246. https://doi.org/10.1177/0095798418771807",
+    "crumbs": [
+      "Guía paso a paso",
+      "Material de consulta",
+      "Referencias APA 7"
+    ]
+  }
+]

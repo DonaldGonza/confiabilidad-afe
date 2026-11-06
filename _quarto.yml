@@ -1,0 +1,76 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+  resources:
+    - "assets/"
+    - "datos/"
+    - "descargas/"
+
+lang: es
+bibliography: referencias.bib
+csl: estilos/apa.csl
+link-citations: true
+
+website:
+  site-url: "https://donaldgonza.github.io/confiabilidad-afe/"
+  title: "Confiabilidad y AFE"
+  page-navigation: true
+  search:
+    location: sidebar
+    type: textbox
+  navbar:
+    background: "#14569d"
+    foreground: "#ffffff"
+    left:
+      - text: "Guía paso a paso"
+        href: index.qmd
+      - text: "Resultados completos"
+        href: resultados.qmd
+      - text: "Videos y lecturas"
+        href: recursos.qmd
+  sidebar:
+    style: docked
+    contents:
+      - href: index.qmd
+        text: "Inicio y ruta de trabajo"
+      - section: "Procedimiento y decisiones"
+        contents:
+          - href: 01-preparar.qmd
+            text: "1. Preparación de datos"
+          - href: 02-confiabilidad.qmd
+            text: "2. Confiabilidad"
+          - href: 03-comprobar-matriz.qmd
+            text: "3. KMO y Bartlett"
+          - href: 04-construir-solucion.qmd
+            text: "4. Extracción y rotación"
+          - href: 05-decidir-items.qmd
+            text: "5. Decisiones sobre los ítems"
+          - href: 06-evaluar-modelo.qmd
+            text: "6. Evaluación del modelo"
+          - href: 07-puntuar-informar.qmd
+            text: "7. Puntuación e informe"
+          - href: 08-practica.qmd
+            text: "8. Práctica de cierre"
+      - section: "Material de consulta"
+        contents:
+          - href: recursos.qmd
+            text: "Videos y lecturas"
+          - href: resultados.qmd
+            text: "Resultados completos"
+          - href: referencias.qmd
+            text: "Referencias APA 7"
+  page-footer: "Caso Base_IA · Procedimientos, resultados y decisiones"
+
+format:
+  html:
+    theme: default
+    css: estilos/sitio.css
+    toc: true
+    toc-depth: 2
+    code-copy: true
+    html-math-method: mathml
+    include-after-body: assets/guia.html
+    smooth-scroll: true
+    reference-location: document

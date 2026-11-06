@@ -1,0 +1,12 @@
+{
+  "archivo": "Base_IA.omv",
+  "sha256": "36d5cf030e53fc594300640ef07d710cae0ccff73eb0e4c79d71a95658da52e8",
+  "casos": 268,
+  "items": 26,
+  "celdas_sustituidas": 907,
+  "metodos": {
+    "Media del bloque de la persona": 767,
+    "Media observada del ítem en los 268 casos": 140
+  },
+  "alcance": "Resultados agregados de la reproducción, sin respuestas individuales. Tres factores fijados para contrastar la solución guardada; no se repitió el análisis paralelo."
+}

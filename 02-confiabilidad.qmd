@@ -1,0 +1,71 @@
+---
+title: "2. Estimar e interpretar la confiabilidad"
+---
+
+## Qué pregunta responde
+
+Si proponemos sumar o promediar varios ítems, necesitamos estudiar la precisión de esa puntuación. Alfa y omega aportan estimaciones de consistencia a partir de una aplicación. No evalúan estabilidad temporal y un valor alto no confirma por sí mismo una única dimensión [@dunn2014; @sijtsma2009].
+
+## Qué se hace en jamovi
+
+En **Análisis → Factor → Análisis de fiabilidad**, coloca `i01` a `i26` y solicita alfa de Cronbach y omega de McDonald. Agrega la correlación ítem–resto y alfa si se elimina cada ítem. Después repite el análisis para cada bloque previsto [@selker-reliability].
+
+## Cómo funcionan los coeficientes
+
+Alfa combina la cantidad de ítems y la covariación entre ellos:
+
+$$\alpha = \frac{k}{k-1}\left(1-\frac{\sum s_i^2}{s_{\mathrm{suma}}^2}\right).$$
+
+Si cuatro ítems tienen suma de varianzas igual a 4 y la varianza de su suma es 10, el resultado es $4/3\times(1-4/10)=.80$. El ejemplo es hipotético. Muestra que no estamos contando «80 % de respuestas correctas».
+
+Omega se obtiene de un modelo de medición y permite que las contribuciones de los ítems difieran. Su interpretación exige especificar qué forma de omega se estimó y qué puntaje pretende representar [@flora2020; @mcneish2018]. En este caso se reproduce **omega total de un ajuste de un factor**; su magnitud tampoco demuestra que ese modelo represente toda la estructura.
+
+## Qué se obtuvo en el caso
+
+| Resultado global | Valor | Qué hacemos con él |
+| --- | --- | --- |
+| Alfa no estandarizado | .9632 | Informarlo como estimación para el conjunto de 26 ítems de la base completada. |
+| Alfa estandarizado | .9641 | Reconocer que estandarizar las varianzas produce aquí una diferencia pequeña. |
+| Omega total | .9654 | Reportar la forma estimada y revisar después la estructura que permitiría interpretarla. |
+| Correlación media entre ítems | .5081 | Describir la asociación global; no asignar ítems a factores con este promedio. |
+| IC previo del 95 % de alfa | [.9537, .9702] | Declarar que se remuestreó una base ya completada. |
+
+El intervalo proviene del registro previo: 20,000 remuestreos percentiles, semilla 20261015. No incluye la incertidumbre que produciría repetir la selección o la imputación. No se recalculó en esta revisión.
+
+## Qué hacemos con el diagnóstico de cada ítem
+
+**La correlación ítem–resto** relaciona una pregunta con la suma de las otras 25. **Alfa sin el ítem** muestra el coeficiente que resultaría con esos 25 ítems. Se compara con .9632, no con el alfa de otra muestra.
+
+Por ejemplo, `i06` tiene la menor correlación ítem–resto, .3921. Retirarlo elevaría alfa a .9643, un cambio aproximado de .0011. La acción razonable es localizarlo para revisar su contenido y comportamiento factorial. Ese cambio pequeño, por sí solo, no justifica eliminarlo.
+
+`i26` tiene la mayor correlación ítem–resto, .8506. Retirarlo reduciría alfa a .9606. Se mantiene en la versión de trabajo, aunque su validez de contenido y su interpretación también deben examinarse.
+
+Los diagnósticos completos están en el [anexo](resultados.qmd#diagnosticos-de-los-items).
+
+## Por qué calculamos también por bloques
+
+El instrumento propone cinco puntajes distintos. Estimar la consistencia de cada uno ayuda a estudiar el puntaje que realmente se pretende interpretar:
+
+| Bloque previsto | Ítems | Cantidad | Alfa |
+| --- | --- | --- | --- |
+| Expectativa de esfuerzo | i01–i04 | 4 | 0.8836 |
+| Influencia social | i05–i09 | 5 | 0.7940 |
+| Condiciones para el uso | i10–i14 | 5 | 0.8786 |
+| Intención de uso | i15–i18 | 4 | 0.9037 |
+| Uso académico declarado | i19–i26 | 8 | 0.9664 |
+
+La tabla no confirma que los cinco bloques sean cinco factores. Sus coeficientes son estimaciones descriptivas de agrupaciones previamente definidas. La estructura debe contrastarse en los siguientes pasos.
+
+## Al terminar este paso {.cierre}
+
+**Qué guardas.** Los coeficientes globales, cinco alfas de bloques y los diagnósticos de las 26 preguntas.
+
+**Cómo lo interpretas.** El conjunto tiene consistencia global alta. Eso aún no autoriza a tratarlo como una sola dimensión ni confirma cinco subescalas.
+
+**Qué haces ahora.** Mantén los 26 ítems durante esta exploración. Señala i05 e i06 para revisar contenido y examina los demás con sus cargas. No elimines preguntas solo para elevar alfa.
+
+**Siguiente paso.** Comprueba si la matriz permite un AFE en [KMO y Bartlett](03-comprobar-matriz.qmd).
+
+**Así queda anotado en este caso:**
+
+> Alfa = .9632 y omega total = .9654 en la base completada. Se conserva la versión de 26 ítems para continuar la evaluación de su estructura.

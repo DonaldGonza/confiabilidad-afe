@@ -1,0 +1,37 @@
+---
+title: "Confiabilidad y análisis factorial exploratorio"
+---
+
+Esta guía acompaña un análisis desde la preparación de la base hasta la decisión sobre los ítems y las puntuaciones. Trabaja con un caso concreto, **Base_IA.omv**, y explica qué se hace con cada resultado antes de pasar al siguiente procedimiento.
+
+El recorrido termina con tres productos: un registro de decisiones, una propuesta explícita sobre las puntuaciones y un informe de resultados. Los cálculos completos se conservan en el [anexo de resultados](resultados.qmd).
+
+## La decisión que buscamos
+
+Queremos saber si tiene sentido combinar las respuestas en puntuaciones y qué evidencia respalda esa combinación. Para responder, primero revisamos los datos, después su consistencia y estructura, y finalmente evaluamos si la solución es suficientemente defendible para el uso previsto.
+
+En este caso hay **268 personas y 26 ítems**. Alfa y omega son altos, y el análisis guardado retuvo tres factores. Sin embargo, los datos incluyen sustituciones por medias, varias preguntas se relacionan con más de un factor y el ajuste necesita revisión. Al terminar explicaremos qué puede conservarse como resultado descriptivo y qué sigue pendiente.
+
+## Qué produce cada procedimiento
+
+| Procedimiento | Producto que obtienes | Decisión que tomas con ese producto |
+| --- | --- | --- |
+| Preparación | Ficha de datos, exclusiones y sustituciones | Definir qué base entra al análisis y cómo se describen sus límites. |
+| Confiabilidad | Alfa, omega y diagnósticos por ítem | Examinar la consistencia del puntaje propuesto y localizar preguntas para revisar. |
+| KMO y Bartlett | Evidencia de que la matriz permite explorar factores | Continuar con el AFE o revisar primero la matriz. |
+| Extracción, retención y rotación | Un modelo de trabajo y su matriz de cargas | Fijar qué solución se interpretará y guardar sus opciones. |
+| Cargas y comunalidades | Relaciones de cada ítem con los factores | Conservar provisionalmente, revisar o estudiar una alternativa; nunca borrar por una cifra aislada. |
+| Ajuste y relaciones factoriales | Una evaluación conjunta del modelo | Determinar si la solución puede sostenerse o debe compararse con alternativas. |
+| Puntuación e informe | Registro final y redacción metodológica | Definir qué puntuaciones se reportan y con qué alcance. |
+
+## Cómo recorrer los capítulos
+
+Empieza por [preparar la base](01-preparar.qmd). Al final de cada capítulo encontrarás una decisión resuelta para este caso y el enlace al siguiente paso. Los videos y las lecturas se consultan en [Recursos](recursos.qmd), junto con preguntas para orientar su estudio.
+
+La guía conserva la interfaz azul. Sus tablas, gráficos y textos funcionan localmente; los recursos externos requieren internet.
+
+## De dónde vienen las cifras
+
+Las primeras tablas y el gráfico con simulaciones estaban guardados en el archivo recibido. Para completar la interpretación se reprodujo la solución en R con **tres factores fijados, MinRes y Promax**. Las cargas visibles, alfa, omega, KMO y Bartlett coinciden con los originales al redondear a cuatro decimales. Fijar tres factores para reproducirlos no equivale a ejecutar nuevamente el análisis paralelo.
+
+Los datos individuales permanecen fuera de este sitio. Las tablas contienen resultados agregados, no registros de participantes.

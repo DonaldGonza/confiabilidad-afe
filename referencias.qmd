@@ -1,0 +1,9 @@
+---
+title: "Referencias"
+nocite: "@*"
+---
+
+Las fuentes citadas y los recursos de estudio se presentan con el estilo APA 7.
+
+::: {#refs}
+:::

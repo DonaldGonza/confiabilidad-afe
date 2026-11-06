@@ -1,0 +1,49 @@
+---
+title: "3. Decidir si procede el análisis factorial"
+---
+
+## La decisión de este capítulo
+
+Aquí comprobamos si tiene sentido buscar varianza común entre las preguntas. Este paso permite **entrar al AFE**; todavía no evalúa si la solución final será buena.
+
+En jamovi, abre **Análisis → Factor → Análisis factorial exploratorio**, selecciona `i01` a `i26` y activa **KMO** y **prueba de esfericidad de Bartlett**.
+
+## Procedimiento A: Bartlett
+
+La hipótesis nula afirma que la matriz es una identidad: las correlaciones distintas entre ítems son cero. El resultado del caso es:
+
+$$\chi^2(325)=6196.77,\qquad p<.001.$$
+
+Los 325 grados de libertad corresponden a $26\times25/2$, las correlaciones distintas. Se rechaza la matriz identidad. Hay asociaciones que pueden estudiarse mediante el análisis factorial.
+
+**Al terminar Bartlett:** anotamos el resultado y continuamos con KMO. No deducimos todavía «hay tres factores» ni «el instrumento es válido».
+
+## Procedimiento B: KMO global
+
+KMO contrasta correlaciones con correlaciones parciales. En este caso es **.9521**, un resultado favorable para explorar varianza común. No es una prueba de normalidad ni de representatividad.
+
+**Al terminar KMO:** la matriz pasa esta comprobación y podemos continuar. Si el resultado fuera desfavorable, revisaríamos codificación, relaciones entre variables y pertinencia del conjunto antes de extraer factores; no borraríamos ítems mecánicamente para subir el índice [@lloret2014].
+
+## Procedimiento C: los MSA individuales
+
+Los MSA ayudan a examinar la adecuación de cada variable dentro de la matriz. Van de **.8664 en i05** a **.9757 en i25**. Todos son favorables en esta base. Los 26 están en el [anexo](resultados.qmd#adecuacion-de-la-matriz).
+
+No deben confundirse con las comunalidades. Por ejemplo, `i06` tiene MSA = .9008, pero después veremos h² = .2631. Puede participar en una matriz factorizable y, aun así, quedar poco representado por la solución concreta.
+
+## Qué queda decidido
+
+La matriz permite continuar con la extracción. Esta conclusión se limita a la **posibilidad de factorizar**. El ajuste del modelo se estudiará cuando tengamos una solución elegida.
+
+## Al terminar este paso {.cierre}
+
+**Qué guardas.** Bartlett, KMO global y los 26 MSA.
+
+**Cómo lo interpretas.** La matriz no es una identidad y presenta un patrón favorable para estudiar factores comunes.
+
+**Qué haces ahora.** Continúa con el AFE. No declares todavía confirmada ninguna estructura.
+
+**Siguiente paso.** Especifica extracción, retención y rotación en [Construir la solución](04-construir-solucion.qmd).
+
+**Así queda anotado en este caso:**
+
+> Bartlett fue significativo, χ²(325) = 6196.77, p < .001, y KMO = .9521. Se decidió continuar con la exploración factorial.

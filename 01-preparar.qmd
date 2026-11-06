@@ -1,0 +1,49 @@
+---
+title: "1. Preparar la base que se va a analizar"
+---
+
+## Qué problema resuelve este paso
+
+Antes de calcular, debemos decidir qué respuestas representan datos observados, cuáles son estimaciones y qué variables pertenecen al instrumento. Una base sin celdas vacías puede contener información completada por un procedimiento estadístico.
+
+## Qué se revisa en jamovi
+
+Abre una copia del archivo. Identifica las variables `i01` a `i26`, revisa su descripción y comprueba rangos, valores ausentes y sentido de respuesta. Usa los descriptivos para ver frecuencias y distribuciones. Conserva el archivo recibido para poder volver a él.
+
+El AFE se realiza con los ítems. Los identificadores y las variables de contexto no se incluyen. Tampoco deben añadirse las sumas o medias calculadas con esos mismos ítems, porque introducirían dependencias creadas por el propio cálculo [@watkins2018].
+
+## Qué ocurrió en esta base
+
+Los controles de preparación asociados a la base indican lo siguiente [@baseia]:
+
+| Revisión | Resultado del caso | Consecuencia para el análisis |
+| --- | --- | --- |
+| Casos analizados | 268 | Este es el tamaño de la base completada. |
+| Ítems | 26 | Son las variables que entran al AFE y a la confiabilidad global. |
+| Celdas de ítems | 6,968 | 268 × 26. |
+| Celdas sustituidas | 907, equivalentes al 13.02 % | Se deben declarar como estimaciones. |
+| Motivos originales | 531 «no aplica», 251 «no sabe» y 125 omisiones | Los tres motivos no tienen necesariamente el mismo significado. |
+| Procedimiento | Media del bloque de la persona en 767 celdas; media observada del ítem en 140 | Los resultados están condicionados por esta preparación. |
+| Personas con alguna sustitución | 238 | Solo 30 casos quedaron sin sustituciones. |
+
+Las medias se conservaron sin redondear. Por eso hay decimales entre 1 y 5 en variables que originalmente recogían respuestas de categoría. Redondear esos valores no recupera las respuestas originales.
+
+## Qué decisión se toma con esta revisión
+
+Para **reproducir el análisis recibido**, trabajamos con los 268 casos y declaramos las 907 sustituciones. Para una revisión metodológica de la versión final, habría que volver a las respuestas originales y justificar por separado cómo tratar «no sabe», «no aplica» y las omisiones.
+
+La sustitución simple puede alterar varianzas y asociaciones. Su efecto no se conoce solo contando las celdas completadas; requiere comparar estrategias justificadas [@dong2013]. Esa comparación no se ha realizado en este recorrido.
+
+## Al terminar este paso {.cierre}
+
+**Qué guardas.** Una ficha de preparación con 268 casos, 26 ítems y 907 celdas sustituidas.
+
+**Cómo lo interpretas.** Los resultados describen una base completada, no una muestra de 268 personas que contestaron todos los ítems.
+
+**Qué haces ahora.** Conserva los decimales y usa esta versión para reproducir el caso. Identifica sus resultados como condicionados por la preparación.
+
+**Siguiente paso.** Estima la consistencia de los puntajes en [Confiabilidad](02-confiabilidad.qmd).
+
+**Así queda anotado en este caso:**
+
+> Se analizó la base completada de 268 casos. Se declararon 907 sustituciones por medias y se conservó el archivo original sin cambios.

@@ -1,0 +1,67 @@
+---
+title: "7. Cerrar las decisiones y definir las puntuaciones"
+---
+
+## Qué entregamos al final del recorrido
+
+El producto final es un **registro de análisis con decisiones justificadas**, acompañado del reporte. En este caso queda documentado qué datos se analizaron, qué resultados se obtuvieron, qué ítems se conservan en la versión de trabajo y qué evidencia falta para cerrar los puntajes.
+
+## Calcular una puntuación no equivale a justificarla
+
+Una media es una operación aritmética. Para interpretarla como medida de una dimensión necesitamos además explicar qué contenido combina y qué evidencia respalda esa interpretación [@prieto2010].
+
+El archivo ya contiene cinco medias y cinco sumas de bloques previstos:
+
+| Puntaje previsto | Cálculo aritmético de la media |
+| --- | --- |
+| Expectativa de esfuerzo | Media de i01–i04 |
+| Influencia social | Media de i05–i09 |
+| Condiciones para el uso | Media de i10–i14 |
+| Intención de uso | Media de i15–i18 |
+| Uso académico declarado | Media de i19–i26 |
+
+Estos cálculos pueden describirse según la construcción prevista, **con carácter provisional y condicionado por la preparación**. El AFE recibido no confirma que constituyan cinco dimensiones separadas. La pregunta de investigación y el uso de la medida determinan si ese alcance descriptivo es suficiente.
+
+### Un ejemplo de cómo se calcula y qué se escribe
+
+Supón una persona hipotética con respuestas 4, 5, 3 y 4 en i01–i04. Su suma sería 16 y su media 4. Este ejemplo no corresponde a un participante de la base.
+
+La operación termina al obtener la media. La interpretación termina después de justificar qué representa. Una redacción prudente sería: «El promedio del bloque previsto de expectativa de esfuerzo fue 4 en este ejemplo». No equivale a concluir que la persona tiene una capacidad objetiva de nivel 4.
+
+## Qué hacemos con los tres factores encontrados
+
+Los factores ayudan a estudiar la estructura. **No obligan a crear tres nuevas sumas.** Para hacerlo habría que definir con claridad su contenido, resolver los ítems ambiguos, volver a estimar la solución y estudiar la confiabilidad de esos puntajes. Esas decisiones todavía no se han cerrado en este caso.
+
+Tampoco se ha justificado un total de 26 ítems como medida de una sola dimensión. El alfa global se conserva como resultado del conjunto examinado, con esa limitación.
+
+## El registro final ya resuelto para esta base
+
+<div class="tabla-desplazable"><table class="table registro-final"><thead><tr><th scope="col">Paso</th><th scope="col">Resultado</th><th scope="col">Decisión actual</th><th scope="col">Qué falta para cerrar</th></tr></thead><tbody><tr><th scope="row">Preparación</th><td>268 casos, 26 ítems y 907 celdas sustituidas</td><td>Usar esta base para reproducir y declarar las sustituciones.</td><td>Recuperar las respuestas originales para el contraste de preparación.</td></tr><tr><th scope="row">Confiabilidad global</th><td>α = .9632; ω total = .9654</td><td>Informar consistencia alta, sin inferir una única dimensión.</td><td>Relacionar el coeficiente con el puntaje que finalmente se justifique.</td></tr><tr><th scope="row">KMO y Bartlett</th><td>KMO = .9521; χ²(325) = 6196.77, p < .001</td><td>Continuar con el AFE.</td><td>No confundir adecuación de la matriz con ajuste del modelo.</td></tr><tr><th scope="row">Construcción de la solución</th><td>Pearson, MinRes, retención original de tres y Promax</td><td>Interpretar esta solución y registrar las opciones.</td><td>Estudiar alternativas justificadas, sin imponer el número por los nombres teóricos.</td></tr><tr><th scope="row">Ítems</th><td>Cargas, unicidades y comunalidades de los 26 ítems</td><td>Conservar la versión de trabajo; ninguna eliminación automática.</td><td>Revisar los asuntos de contenido y pertenencia de la tabla de decisiones.</td></tr><tr><th scope="row">Ajuste</th><td>RMSEA = .0847; TLI = .8925; RMSR = .0346</td><td>Mantener carácter exploratorio.</td><td>Contrastar preparación y soluciones antes de cerrar la estructura.</td></tr><tr><th scope="row">Puntuaciones</th><td>Cinco bloques previstos y tres factores exploratorios</td><td>Distinguir puntajes descriptivos previstos de escalas validadas.</td><td>No adoptar tres nuevas sumas definitivas por asociación de cargas.</td></tr></tbody></table></div>
+
+[Descargar este registro en CSV](descargas/registro_decisiones.csv){.boton-descarga download="registro_decisiones.csv"}
+
+La decisión actual es **conservar los 26 ítems para continuar la evaluación**, mantener separados los resultados descriptivos y las afirmaciones de validez, y no declarar todavía una versión psicométrica final. El análisis exploratorio sí aporta una descripción verificable de la solución y localiza problemas concretos.
+
+## Ejemplo de informe que integra el recorrido
+
+> Se analizaron 26 ítems en una base completada de 268 casos. Los controles registraron 907 sustituciones por medias, equivalentes al 13.02 % de las celdas de ítems. La matriz fue adecuada para continuar con la exploración, con KMO = .952 y una prueba de Bartlett significativa, χ²(325) = 6196.77, p < .001. La solución guardada empleó MinRes, rotación Promax y retención de tres factores mediante análisis paralelo. Se reprodujo fijando tres factores para completar sus resultados.
+>
+> Alfa global fue .963 y omega total .965. La solución representó 63.70 % de la varianza y presentó correlaciones factoriales entre .635 y .738. Se observaron ítems con cargas cruzadas o varianza común limitada. El ajuste exacto fue rechazado, χ²(250) = 731.71, p < .001; RMSEA = .085, IC del 90 % [.078, .092], TLI = .892 y RMSR = .035. Se conservaron los 26 ítems como versión de trabajo y se documentaron las revisiones de contenido y pertenencia. Los resultados se interpretan como exploratorios y condicionados por la preparación de los datos; no confirman cinco subescalas ni justifican un puntaje unidimensional definitivo.
+
+## Comprobación final
+
+Antes de cerrar un análisis propio, comprueba si otra persona podría reconstruir las decisiones con tu registro: qué archivo se usó, cómo se trataron las respuestas, qué opciones se eligieron, qué cambió entre versiones y por qué se conservaron o revisaron los ítems. Con esos productos puede continuarse una evaluación posterior sin perder la trazabilidad.
+
+## Al terminar este paso {.cierre}
+
+**Qué guardas.** El registro de decisiones, el plan de puntuación y una redacción que integra los resultados.
+
+**Cómo lo interpretas.** El recorrido produjo evidencia y decisiones de trabajo; las afirmaciones deben conservar ese alcance.
+
+**Qué haces ahora.** Reporta lo realizado. Identifica los puntajes descriptivos previstos y deja explícitas las decisiones todavía abiertas.
+
+**Siguiente paso.** Resuelve la [práctica de cierre](08-practica.qmd) y contrasta tus respuestas con el registro.
+
+**Así queda anotado en este caso:**
+
+> Se mantiene la versión de 26 ítems para continuar la evaluación. No se declara validado un total único ni se crean tres subescalas definitivas.

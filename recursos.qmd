@@ -1,0 +1,78 @@
+---
+title: "Videos y lecturas para acompañar cada paso"
+---
+
+## Videos en español
+
+Los reproductores se cargan al pulsar el botón. Conservan el enlace original para abrirlos si el sitio limita la inserción. Las tareas que acompañan a los videos son propuestas de esta guía.
+
+
+### Confiabilidad Alfa y Omega en Jamovi
+
+Psychological Research [@psicological2021].
+
+```{=html}
+<div class="video-local"><button type="button" data-video="tZxFny4siag">Reproducir aquí</button></div>
+```
+
+**Durante el video:** Localiza las opciones de alfa y omega. Después explica qué harías con el resultado global y por qué no usarías el coeficiente para confirmar una sola dimensión.
+
+[Abrir en YouTube](https://www.youtube.com/watch?v=tZxFny4siag) · [Volver al procedimiento](02-confiabilidad.qmd)
+
+### Análisis factorial y de confiabilidad en jamovi
+
+Pablo Valencia [@valencia2019].
+
+```{=html}
+<div class="video-local"><button type="button" data-video="iyMx_b3Lmlo">Reproducir aquí</button></div>
+```
+
+**Durante el video:** Anota qué opciones de análisis deben registrarse. Las elecciones de otro instrumento no se transfieren automáticamente a esta base.
+
+[Abrir en YouTube](https://www.youtube.com/watch?v=iyMx_b3Lmlo) · [Volver al procedimiento](04-construir-solucion.qmd)
+
+### Análisis factorial exploratorio en Jamovi
+
+Dr. Jaime Fuster-Villaseca [@fuster2025].
+
+```{=html}
+<div class="video-local"><button type="button" data-video="pXEL64r0gho">Reproducir aquí</button></div>
+```
+
+**Durante el video:** El ejemplo utiliza Big Five Inventory. Compara sus salidas con nuestra matriz y escribe qué decisión tomarías después de leer una fila.
+
+[Abrir en YouTube](https://www.youtube.com/watch?v=pXEL64r0gho) · [Volver al procedimiento](05-decidir-items.qmd)
+
+### Exploración y descripción de los datos
+
+El video **Jamovi02: exploración de datos**, de Juan José López García en TV Universidad de Murcia, trata descriptivos, valores ausentes y filtros. La duración indicada es 37 minutos y 32 segundos [@lopez2025].
+
+**Durante el video:** localiza dónde revisar no respuesta y distribuciones. Relaciona esa revisión con la ficha de preparación del capítulo 1.
+
+[Abrir el video en TV Universidad de Murcia](https://clutv10.um.es/pro/video?autoplay=&cod=a1b1c2d23&id=149730&idioma=es&serie=26006)
+
+## Lecturas guiadas en español
+
+### Fiabilidad y validez
+
+Lee a Prieto y Delgado, pp. 67–74 [@prieto2010]. La pregunta de lectura es: **¿qué interpretación de nuestras puntuaciones sigue sin justificarse aunque alfa sea alto?** Vuelve al capítulo 7 y escribe un ejemplo de algo que sí reportarías y algo para lo que todavía necesitarías otra evidencia.
+
+[Consultar el artículo](https://www.papelesdelpsicologo.es/pdf/1797.pdf)
+
+### Decálogo para el análisis factorial de los ítems de un test
+
+Lee a Ferrando y colaboradores, pp. 7–17 [@ferrando2022]. Identifica las recomendaciones sobre preparación, coherencia sustantiva y evaluación del modelo. **Marca cuáles ya tienen evidencia en este caso y cuáles quedarían pendientes.**
+
+[Consultar el artículo](https://www.psicothema.com/pdf/4715.pdf)
+
+### El análisis factorial exploratorio de los ítems
+
+En Lloret-Segura y colaboradores, revisa matriz de asociación, extracción, retención y rotación [@lloret2014]. **Justifica por qué elegimos cada opción y qué producto deja al terminar.** Después explica por qué el número de bloques previstos no obliga a retener cinco factores.
+
+[Consultar la ficha editorial y el texto](https://doi.org/10.6018/analesps.30.3.199361)
+
+### Apuntes de consistencia interna
+
+En Frías-Navarro, revisa alfa y omega, correlación ítem–resto e intervalo de confianza [@frias2025]. **Distingue qué harías con cada columna del diagnóstico de ítems.** Contrasta las formulaciones sobre homogeneidad con la discusión de Sijtsma [@sijtsma2009].
+
+[Consultar los apuntes](https://www.uv.es/friasnav/AlfaCronbach.pdf)
